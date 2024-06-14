@@ -27,6 +27,8 @@
 </p>
 
 
+## Kodi Addons:
+
 <b>=> Project Kodi - NFO Exporter - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/NFO%20Exporter%20-%20plugin.context.nfoexporter">plugin.context.nfoexporter</a></b>
 
 <b>=> Project Kodi - Project Kodi Repository  - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Project%20Kodi%20Repository%20%20-%20repository.project.kodi">repository.project.kodi</a></b>
@@ -67,6 +69,8 @@
 		<li>Gehen in den entsprechenden Abschnitt im Repository (Video-Plugin, Informationsanbieter,..), und du findest die Apps.</li>
 	</ul>
 </p>
+
+## Kodi Addons:
 
 <b>=> Project Kodi - NFO Exporter - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/NFO%20Exporter%20-%20plugin.context.nfoexporter">plugin.context.nfoexporter</a></b>
 
