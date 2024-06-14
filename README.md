@@ -33,7 +33,10 @@
 
 <b>=> Project Kodi - Project Kodi Repository  - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Project%20Kodi%20Repository%20%20-%20repository.project.kodi">repository.project.kodi</a></b>
 
-<b>=> Project Kodi - Texture Cache Tool - GUI Version (texturecache.py) - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Texture%20Cache%20Tool%20-%20GUI%20Version%20-%20plugin.program.tctgui">plugin.program.tctgui</a> Github Source (EXE/PY Versions) <a href="https://github.com/Project-Kodi/texturecache.py">https://github.com/Project-Kodi/texturecache.py</a> | Web: <a href="https://project-kodi.github.io/texturecache.py/">https://project-kodi.github.io/texturecache.py/</a></b>
+<b>=> Project Kodi - Texture Cache Tool - GUI Version (texturecache.py) - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Texture%20Cache%20Tool%20-%20GUI%20Version%20-%20plugin.program.tctgui">plugin.program.tctgui</a></b>
+
+Github Source (EXE/PY Versions) <a href="https://github.com/Project-Kodi/texturecache.py">https://github.com/Project-Kodi/texturecache.py</a>
+Web: <a href="https://project-kodi.github.io/texturecache.py/">https://project-kodi.github.io/texturecache.py/</a>
 
 <b>=> Project Kodi - The Sports Database - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com">metadata.thesportsdb.com</a> | <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com/File%20Naming%20%26%20Tools/Example%20files%20for%20naming">Examples for Naming.zip</a></b>
 
