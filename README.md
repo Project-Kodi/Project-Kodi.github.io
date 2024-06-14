@@ -25,8 +25,17 @@
 		<li>Go into the accordingly section in the repository (video-plugin, scraper,..), and you'll find the apps</li>
 	</ul>
 </p>
-<b>=> Project Kodi - The Sports Database: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com">File Naming, Community & Tools</a>
-</b>
+
+
+<b>=> Project Kodi - NFO Exporter - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/NFO%20Exporter%20-%20plugin.context.nfoexporter">plugin.context.nfoexporter</a></b>
+<b>=> Project Kodi - Project Kodi Repository  - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Project%20Kodi%20Repository%20%20-%20repository.project.kodi">repository.project.kodi</a></b>
+<b>=> Project Kodi - Texture Cache Tool - GUI Version (texturecache.py) - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Texture%20Cache%20Tool%20-%20GUI%20Version%20-%20plugin.program.tctgui">plugin.program.tctgui</a></b>
+<b>=> Project Kodi - The Sports Database - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com">metadata.thesportsdb.com</a> | <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/blob/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com/File%20Naming%20%26%20Tools/Example%20files%20for%20naming/Example%20files%20for%20naming.zip">Examples for Naming.zip</a></b>
+<b>=> Project Kodi - Unlock Kodi Advanced Settings - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Unlock%20Kodi%20Advanced%20Settings%20-%20script.unlock.advancedsettings">script.unlock.advancedsettings</a></b> 
+
+
+
+
 <p align="left">
 
 # Project Kodi - Repository Addon - German
@@ -54,5 +63,12 @@
 		<li>Gehen in den entsprechenden Abschnitt im Repository (Video-Plugin, Informationsanbieter,..), und du findest die Apps.</li>
 	</ul>
 </p>
-<b>=> Project Kodi - The Sports Database: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com">Dateibenennung, Community und Tools</a>
-</b>
+
+<b>=> Project Kodi - NFO Exporter - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/NFO%20Exporter%20-%20plugin.context.nfoexporter">plugin.context.nfoexporter</a></b>
+<b>=> Project Kodi - Project Kodi Repository  - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Project%20Kodi%20Repository%20%20-%20repository.project.kodi">repository.project.kodi</a></b>
+<b>=> Project Kodi - Texture Cache Tool - GUI Version (texturecache.py) - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Texture%20Cache%20Tool%20-%20GUI%20Version%20-%20plugin.program.tctgui">plugin.program.tctgui</a></b>
+<b>=> Project Kodi - The Sports Database - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com">metadata.thesportsdb.com</a> | <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/blob/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com/File%20Naming%20%26%20Tools/Example%20files%20for%20naming/Example%20files%20for%20naming.zip">Dateibenennung Beispiele.zip</a></b>
+<b>=> Project Kodi - Unlock Kodi Advanced Settings - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Unlock%20Kodi%20Advanced%20Settings%20-%20script.unlock.advancedsettings">script.unlock.advancedsettings</a></b> 
+
+
+
