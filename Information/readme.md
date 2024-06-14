@@ -9,7 +9,7 @@
     <li>The Sports Database - metadata.thesportsdb.com</li>
     <li>Unlock Kodi Advanced Settings - script.unlock.advancedsettings</li>        
   </ul>
-  </p>
+</p>
 
 
   
