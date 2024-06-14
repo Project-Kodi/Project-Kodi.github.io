@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
+	<addon id="plugin.context.nfoexporter" name="NFO Exporter" version="0.9.1" provider-name="Project Kodi">
+		<requires>
+			<import addon="xbmc.python" version="3.0.0"/>
+			<import addon="script.module.urllib3" version="2.1.0"/>
+		</requires>
+		<extension point="kodi.context.item">
+			<menu id="kodi.core.main">
+				<item library="addon.py">
+					<label>Create NFO File</label>
+					<visible>String.IsEqual(ListItem.dbtype,movie) | String.IsEqual(ListItem.dbtype,tvshow) | String.IsEqual(ListItem.dbtype,season) | String.IsEqual(ListItem.dbtype,episode)</visible>
+				</item>
+			</menu>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<news>0.9.1 - Release</news>
+			<summary lang="en_gb">Exports NFO files from individual films or series</summary>
+			<description lang="en_gb">Exports NFO files from individual films or series</description>
+			<disclaimer lang="en_gb">Please use at your own risk. Author bears no liability for any changes made by this plugin in your system.</disclaimer>
+			<summary lang="de_de">Exportiert NFO Dateien von einzelnen Filmen oder Serien</summary>
+			<description lang="de_de">Exportiert NFO Dateien von einzelnen Filmen oder Serien</description>
+			<disclaimer lang="de_de">Bitte nutzen Sie es auf eigene Gefahr. Der Autor übernimmt keine Haftung für Änderungen, die durch dieses Plugin in Ihrem System vorgenommen werden.</disclaimer>
+			<platform>all</platform>
+			<license>GPL v2.0</license>
+			<forum>http://forum.kodi.tv/showthread.php?</forum>
+			<website>https://Project-Kodi.github.io/</website>
+			<email>kodi-support@streimelweger.eu</email>
+			<language>en de</language>
+			<assets>
+				<icon>resources/icon.png</icon>
+				<fanart>resources/fanart.jpg</fanart>
+				<banner>resources/banner.jpg</banner>
+				<screenshot>resources/screenshot-01.jpg</screenshot>
+				<screenshot>resources/screenshot-02.jpg</screenshot>
+				<screenshot>resources/screenshot-03.jpg</screenshot>
+			</assets>
+		</extension>
+	</addon>
 	<addon id="plugin.program.tctgui" name="Texture Cache Tool - GUI Version" version="0.9.2" provider-name="Project Kodi">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>

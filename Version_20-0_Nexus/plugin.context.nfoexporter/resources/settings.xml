@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" ?>
+<!--See https://github.com/Project-Kodi/Project-Kodi.github.io | https://kodi.wiki/view/Add-on_settings_conversion for more information -->
+<settings version="1">
+	<section id="plugin.context.nfoexporter">
+		<!-- General  -->
+		<category id="general" label="30100" help="">
+			<group id="1" label="30101">
+
+
+	<setting id="general_setting11" type="boolean" label="30111" help="" enable="true">
+					<level>0</level>
+					<default>true</default>
+					<control type="toggle"/>
+				</setting>
+
+
+
+
+				<setting id="general_setting12" type="string" label="30112" help="">
+					<level>0</level>
+          <dependencies>
+            <dependency type="visible">
+              <or>
+                <condition setting="general_setting11" operator="is">false</condition>
+              </or>
+            </dependency>
+          </dependencies>						
+					<default>https://www.themoviedb.org/</default>
+					<constraints>
+						<options>
+							<option label="30113">https://www.themoviedb.org/</option>
+							<option label="30114">https://www.thetvdb.com/</option>
+							<option label="30115">https://www.imdb.com/</option>
+						</options>
+					</constraints>
+					<control type="list" format="string">
+						<heading>35555</heading>
+					</control>
+				</setting>
+
+
+				<setting id="general_setting15" type="string" label="30118" help="">
+					<level>0</level>
+<!-- lange Variante or / and -->
+
+
+          <dependencies>
+            <dependency type="visible">
+              <or>
+                <condition setting="general_setting11" operator="is">false</condition>
+              </or>
+            </dependency>
+          </dependencies>						
+					<default>German</default>
+					<constraints>
+						<options>
+							<option label="30119">German</option>
+							<option label="30120">English</option>
+						</options>
+					</constraints>
+					<control type="list" format="string">
+						<heading>35555</heading>
+					</control>
+				</setting>
+
+
+
+
+
+	<setting id="general_setting13" type="boolean" label="30116" help="" enable="true">
+					<level>0</level>
+					<default>true</default>
+					<control type="toggle"/>
+				</setting>
+
+
+
+				<setting id="general_setting14" type="string" label="30117" help="">
+					<level>0</level>
+          <dependencies>
+            <dependency type="visible">
+              <or>
+                <condition setting="general_setting13" operator="is">false</condition>
+              </or>
+            </dependency>
+          </dependencies>						
+					<default>https://www.thetvdb.com/</default>
+					<constraints>
+						<options>
+							<option label="30114">https://www.thetvdb.com/</option>
+							<option label="30113">https://www.themoviedb.org/</option>
+
+							<option label="30115">https://www.imdb.com/</option>
+						</options>
+					</constraints>
+					<control type="list" format="string">
+						<heading>35555</heading>
+					</control>
+				</setting>
+
+				<setting id="general_setting16" type="string" label="30118" help="">
+					<level>0</level>
+<!-- kurze Variante is / !is -->
+		 <dependencies>
+	<dependency type="visible" operator="is" setting="general_setting13">false</dependency>
+</dependencies> 
+
+
+
+
+
+					<default>German</default>
+					<constraints>
+						<options>
+							<option label="30119">German</option>
+							<option label="30120">English</option>
+						</options>
+					</constraints>
+
+
+
+
+					<control type="list" format="string">
+						<heading>35555</heading>
+					</control>
+				</setting>
+
+
+
+
+
+			</group>
+			<group id="2" label="30102">
+
+
+	<setting id="general_setting21" type="boolean" label="30121" help="" enable="true">
+					<level>0</level>
+					<default>true</default>
+					<control type="toggle"/>
+				</setting>
+
+
+
+
+
+
+<setting id="general_setting22" type="path" label="30122" help="">
+	<level>0</level>
+          <dependencies>
+            <dependency type="visible">
+              <or>
+                <condition setting="general_setting21" operator="is">false</condition>
+              </or>
+            </dependency>
+          </dependencies>	
+	<default>special://home/Movies/</default>
+	<constraints>
+		<writable>true</writable>
+		<allowempty>true</allowempty>
+	</constraints>
+	<control type="button" format="path">
+		<heading>35555</heading>
+	</control>
+</setting>
+
+
+<!-- Movies Speicherart NFO-->
+
+
+
+				<setting id="general_setting23" type="string" label="30123" help="">
+					<level>0</level>					
+					<default>1</default>
+					<constraints>
+						<options>
+							<option label="30124">1</option>
+							<option label="30125">2</option>
+						</options>
+					</constraints>
+					<control type="list" format="string">
+						<heading>35555</heading>
+					</control>
+				</setting>
+
+
+
+
+
+
+
+
+
+			</group>
+			<group id="3" label="30103">
+
+	<setting id="general_setting31" type="boolean" label="30131" help="" enable="true">
+					<level>0</level>
+					<default>true</default>
+					<control type="toggle"/>
+				</setting>
+
+
+
+<!-- TVSHOW -->
+<setting id="general_setting32" type="path" label="30132" help="">
+	<level>0</level>
+          <dependencies>
+            <dependency type="visible">
+              <or>
+                <condition setting="general_setting31" operator="is">false</condition>
+              </or>
+            </dependency>
+          </dependencies>	
+	<default>special://home/TV/</default>
+	<constraints>
+		<writable>true</writable>
+		<allowempty>true</allowempty>
+	</constraints>
+	<control type="button" format="path">
+		<heading>35555</heading>
+	</control>
+</setting>
+<!-- SEASON -->
+<setting id="general_setting33" type="path" label="30133" help="">
+	<level>0</level>
+          <dependencies>
+            <dependency type="visible">
+              <or>
+                <condition setting="general_setting31" operator="is">false</condition>
+              </or>
+            </dependency>
+          </dependencies>	
+	<default>special://home/TV/</default>
+	<constraints>
+		<writable>true</writable>
+		<allowempty>true</allowempty>
+	</constraints>
+	<control type="button" format="path">
+		<heading>35555</heading>
+	</control>
+</setting>
+
+<!-- EPISODE -->
+<setting id="general_setting34" type="path" label="30134" help="">
+	<level>0</level>
+          <dependencies>
+            <dependency type="visible">
+              <or>
+                <condition setting="general_setting31" operator="is">false</condition>
+              </or>
+            </dependency>
+          </dependencies>	
+	<default>special://home/TV/</default>
+	<constraints>
+		<writable>true</writable>
+		<allowempty>true</allowempty>
+	</constraints>
+	<control type="button" format="path">
+		<heading>35555</heading>
+	</control>
+</setting>
+
+
+<!-- TVSHOW Speicherart NFO-->
+
+				<setting id="general_setting35" type="string" label="30135" help="">
+					<level>0</level>					
+					<default>2</default>
+					<constraints>
+						<options>
+							<option label="30136">1</option>
+							<option label="30137">2</option>
+						</options>
+					</constraints>
+					<control type="list" format="string">
+						<heading>35555</heading>
+					</control>
+				</setting>
+
+<!-- SEASON Speicherart NFO-->
+
+				<setting id="general_setting36" type="string" label="30138" help="">
+					<level>0</level>					
+					<default>2</default>
+					<constraints>
+						<options>
+							<option label="30139">1</option>
+							<option label="30140">2</option>
+						</options>
+					</constraints>
+					<control type="list" format="string">
+						<heading>35555</heading>
+					</control>
+				</setting>
+
+
+
+<!-- EPISODE Speicherart NFO-->
+
+				<setting id="general_setting37" type="string" label="30141" help="">
+					<level>0</level>					
+					<default>1</default>
+					<constraints>
+						<options>
+							<option label="30142">1</option>
+						</options>
+					</constraints>
+					<control type="list" format="string">
+						<heading>35555</heading>
+					</control>
+				</setting>
+
+
+
+
+
+			</group>
+		</category>
+	
+
+		<!-- Utility Logging  -->
+		<category id="utility_logging" label="30500" help="">
+			<group id="40" label="30510">
+				<setting id="utility_logging01" type="boolean" label="30511" help="" enable="true">
+					<level>0</level>
+					<default>true</default>
+					<control type="toggle"/>
+				</setting>
+				<setting id="utility_logging02" type="boolean" label="30512" help="" enable="true">
+					<level>0</level>
+					<default>true</default>
+					<control type="toggle"/>
+				</setting>
+			</group>
+		</category>
+		<!-- Utility Info  -->
+		<category id="info_about_utility" label="30400" help="">
+			<group id="30" label="30401">
+				<setting id="info_about_utility01" type="boolean" label="30420" help="" enable="false">
+					<level>0</level>
+					<default>false</default>
+					<control type="toggle"/>
+				</setting>
+			</group>
+		</category>
+	</section>
+</settings>

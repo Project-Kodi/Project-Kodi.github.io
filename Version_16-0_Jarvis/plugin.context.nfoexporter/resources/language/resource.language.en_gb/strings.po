@@ -1,0 +1,213 @@
+# Kodi Media Center language file
+# Addon Name: NFO Exporter
+# Addon id: plugin.context.nfoexporter
+# Addon Provider: Project Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: Project Kodi\n"
+"Report-Msgid-Bugs-To: kodi-support@streimelweger.eu\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Project Kodi Team\n"
+"Language-Team: Project Kodi - English Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_gb\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Heading
+
+msgctxt "#35555"
+msgid "UNBEKANNT"
+msgstr ""
+
+
+# Context Menu
+
+msgctxt "#30600"
+msgid "Create Movie NFO File"
+msgstr ""
+
+# Start - Settings | Main Menu Main:
+
+msgctxt "#30100"
+msgid "General"
+msgstr ""
+
+#G1
+msgctxt "#30101"
+msgid "General Settings"
+msgstr ""
+
+msgctxt "#30111"
+msgid "Film Daten von Kodi entnehmen"
+msgstr ""
+
+msgctxt "#30112"
+msgid "Wähle Scraper für Filme"
+msgstr ""
+
+msgctxt "#30113"
+msgid "https://www.themoviedb.org/"
+msgstr ""
+
+msgctxt "#30114"
+msgid "https://www.thetvdb.com/"
+msgstr ""
+
+msgctxt "#30115"
+msgid "https://www.imdb.com/"
+msgstr ""
+
+msgctxt "#30117"
+msgid "Wähle Scraper für Serien"
+msgstr ""
+
+msgctxt "#30116"
+msgid "TV Show Daten von Kodi entnehmen"
+msgstr ""
+
+msgctxt "#30118"
+msgid "Sprache wählen"
+msgstr ""
+
+msgctxt "#30119"
+msgid "DE"
+msgstr ""
+
+msgctxt "#30120"
+msgid "EN"
+msgstr ""
+
+
+#G2
+msgctxt "#30102"
+msgid "Movies"
+msgstr ""
+
+
+msgctxt "#30121"
+msgid "Im jeweiligen Film Ordner speichern"
+msgstr ""
+
+msgctxt "#30122"
+msgid "Pfad selbst wählen"
+msgstr ""
+
+msgctxt "#30123"
+msgid "NFO Dateiname Movie"
+msgstr ""
+
+msgctxt "#30124"
+msgid "(moviefilename).nfo"
+msgstr ""
+
+msgctxt "#30125"
+msgid "movie.nfo"
+msgstr ""
+
+
+
+
+
+#G3
+msgctxt "#30103"
+msgid "TV Shows"
+msgstr ""
+
+msgctxt "#30131"
+msgid "Im jeweiligen TV Show/Staffel/Episoden Ordner speichern"
+msgstr ""
+
+msgctxt "#30132"
+msgid "Pfad selbst wählen - Serie"
+msgstr ""
+
+msgctxt "#30133"
+msgid "Pfad selbst wählen - Staffel"
+msgstr ""
+
+msgctxt "#30134"
+msgid "Pfad selbst wählen - Episode"
+msgstr ""
+
+
+msgctxt "#30135"
+msgid "NFO Dateiname TVShow"
+msgstr ""
+
+msgctxt "#30136"
+msgid "(tvshowfilename).nfo"
+msgstr ""
+
+msgctxt "#30137"
+msgid "tvshow.nfo"
+msgstr ""
+
+
+
+msgctxt "#30138"
+msgid "NFO Dateiname Season"
+msgstr ""
+
+msgctxt "#30139"
+msgid "seasonXX.nfo - Folder TVShow or your own chosen path"
+msgstr ""
+
+msgctxt "#30140"
+msgid "season.nfo - Folder TVShow/Season X or your own chosen path"
+msgstr ""
+
+
+msgctxt "#30141"
+msgid "NFO Dateiname Epsiode"
+msgstr ""
+
+msgctxt "#30142"
+msgid "(episodefilename).nfo - Folder TVShow/Season X or your own chosen path"
+msgstr ""
+
+
+
+
+
+
+
+
+
+
+# Start - Settings - Logging | Main Menu:
+
+msgctxt "#30500"
+msgid "Addon logging"
+msgstr ""
+
+#G1
+msgctxt "#30510"
+msgid "Logging"
+msgstr ""
+
+msgctxt "#30511"
+msgid "Info Logging"
+msgstr ""
+
+msgctxt "#30512"
+msgid "Debug Logging"
+msgstr ""
+
+
+# Start - Settings - Utility Info | Main Menu:
+
+msgctxt "#30400"
+msgid "Project/Addon Info"
+msgstr ""
+
+#G1
+msgctxt "#30401"
+msgid "Visit the following website:"
+msgstr ""
+
+msgctxt "#30420"
+msgid "https://Project-Kodi.github.io/"
+msgstr ""
