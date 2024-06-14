@@ -25,7 +25,7 @@
 		<li>Go into the accordingly section in the repository (video-plugin, scraper,..), and you'll find the apps</li>
 	</ul>
 </p>
-<b>=> Project Kodi - The Sports Database: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/blob/main/File%20Naming%20%26%20Tools/readme.md">File Naming, Community & Tools</a>
+<b>=> Project Kodi - The Sports Database: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com">File Naming, Community & Tools</a>
 </b>
 <p align="left">
 
@@ -54,5 +54,5 @@
 		<li>Gehen in den entsprechenden Abschnitt im Repository (Video-Plugin, Informationsanbieter,..), und du findest die Apps.</li>
 	</ul>
 </p>
-<b>=> Project Kodi - The Sports Database: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/blob/main/File%20Naming%20%26%20Tools/readme.md">Dateibenennung, Community und Tools</a>
+<b>=> Project Kodi - The Sports Database: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com">Dateibenennung, Community und Tools</a>
 </b>
