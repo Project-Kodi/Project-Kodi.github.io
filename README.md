@@ -46,7 +46,7 @@
 
 
 
-<p align="left">
+
 
 # Project Kodi - Repository Addon - German
 ## Current Version: 1.0.1
