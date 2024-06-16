@@ -54,7 +54,7 @@
 => Anweisungen zum Hinzufügen dieses Repositorys:
 
 
-<p align="left"/>
+<p align="left">
 	<ul>
 		<li>Gehe zum Kodi-Dateimanager.</li>
 		<li>Klicke auf „Quelle hinzufügen“.</li>
