@@ -31,7 +31,7 @@ Download exe GUI Version (inexperienced people): <a href="https://raw.githubuser
 - The texture cache.cfg needs to be adjusted!
 - Python does not need to be installed separately, texturcache.exe includes everything you need.
 
-<img src="/_shared_CMD/picture01.jpg" alt="Windows GUI Version">
+<img src="Information/Texture Cache Tool - GUI Version - plugin.program.tctgui/_shared_CMD/picture01.jpg" alt="Windows GUI Version">
 
 ===============
 
