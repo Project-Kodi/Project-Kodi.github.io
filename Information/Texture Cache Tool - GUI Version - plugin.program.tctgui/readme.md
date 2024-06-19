@@ -11,7 +11,8 @@
 
 
 
-## texturecache.py/texturecache.exe
+
+## other info about: texturecache.py/texturecache.exe
 
 Download py Version: <a href="https://github.com/Project-Kodi/texturecache.py/releases/tag/V.1.0.0-py">https://github.com/Project-Kodi/texturecache.py/releases/tag/V.1.0.0-py</a>
 
