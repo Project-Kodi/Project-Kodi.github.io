@@ -3,7 +3,7 @@
 
 <p align="left">
 <ul>
-    <li>File naming tools for Sports Database: (not yet supported. Help and contact the software manufacturers: Media Companion, MediaElch, Radarr, Sonarr, TinyMediaManager, Jellyfin,..)</li>
+    <li>File naming tools for Sports Database: <a href="https://www.tinymediamanager.org/">TinyMediaManager</a> | <a href="https://gitlab.com/tinyMediaManager">TinyMediaManager - Gitlab</a> (and yet not supported: Media Companion, MediaElch, Radarr, Sonarr, Jellyfin,.. help and contact the software manufacturers!)</li>
     <li>Kodi Forum: The Sports Database - (metadata.thesportsdb.com): <a href="https://forum.kodi.tv/showthread.php?tid=256198">Release -  [TSDB] - The Sports Database Video Scraper</a></li>
     <li>Download: Use the Project Kodi Repository in Kodi: <a href="https://project-kodi.github.io/">https://project-kodi.github.io/</a></li>
     <li>Download Example Files: <a href="https://project-kodi.github.io/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com/File%20Naming%20&%20Tools/Example%20files%20for%20naming/Example%20files%20for%20naming.zip">Example files for naming.zip</a></li>
