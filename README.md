@@ -37,7 +37,7 @@
 
 - Github Source (EXE/PY Versions) <a href="https://github.com/Project-Kodi/texturecache.py">https://github.com/Project-Kodi/texturecache.py</a>
 
-- Web: <code>https://project-kodi.github.io/texturecache.py/</code>
+- Web: <code>https://Project-Kodi.github.io/texturecache.py/</code>
 
 <b>=> Project Kodi - The Sports Database - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com">metadata.thesportsdb.com</a> | <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com/File%20Naming%20%26%20Tools/Example%20files%20for%20naming">Examples for Naming.zip</a></b>
 
