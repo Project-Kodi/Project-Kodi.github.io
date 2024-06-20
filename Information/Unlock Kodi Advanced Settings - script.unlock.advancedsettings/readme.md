@@ -9,3 +9,6 @@
   </ul>
   </p>
 
+Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Unlock%20Kodi%20Advanced%20Settings%20-%20script.unlock.advancedsettings">https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Unlock%20Kodi%20Advanced%20Settings%20-%20script.unlock.advancedsettings</a>
+  
+  
