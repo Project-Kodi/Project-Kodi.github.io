@@ -106,4 +106,4 @@
 
 #
 
-<a href="https://project-plex.github.io/">https://project-plex.github.io/</a> | <a href="https://project-plex.github.io/Project-Plex/">https://project-plex.github.io/Project-Plex/</a> | <a href="https://project-plex.github.io/SportScanner/">https://project-plex.github.io/SportScanner/</a>
+<a href="https://project-plex.github.io/">https://project-plex.github.io/</a> | <a href="https://project-plex.github.io/SportScanner/">https://project-plex.github.io/SportScanner/</a>
