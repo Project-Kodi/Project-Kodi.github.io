@@ -35,7 +35,7 @@
 
 <b>=> Project Kodi - Texture Cache Tool - GUI Version (texturecache.py) - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Texture%20Cache%20Tool%20-%20GUI%20Version%20-%20plugin.program.tctgui">plugin.program.tctgui</a></b>
 
-- Github Source (EXE/PY Versions) <a href="https://github.com/Project-Kodi/texturecache.py">https://github.com/Project-Kodi/texturecache.py</a>
+- Github Source (EXE/PY Versions) <a href="https://github.com/Project-Kodi/texturecache.py">https://github.com/Project-Kodi/texturecache.py/</a>
 
 - Web: <a href="https://project-kodi.github.io/texturecache.py/">https://project-kodi.github.io/texturecache.py/</a>
 
