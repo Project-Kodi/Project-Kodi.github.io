@@ -1,4 +1,4 @@
-# Project Kodi - Repository Addon - English
+# Project Kodi - Repository Addon - English:
 ## Current Version: 1.0.1
 
 => Instructions for adding this repository:
@@ -50,7 +50,7 @@
 
 
 
-# Project Kodi - Repository Addon - German
+# Project Kodi - Repository Addon - German:
 ## Current Version: 1.0.1
 
 => Anweisungen zum Hinzufügen dieses Repositorys:
@@ -96,3 +96,12 @@
 
 
 
+
+
+
+
+# Project Kodi - Google Sitemap:
+
+<a href="https://project-kodi.github.io/">https://project-kodi.github.io/</a> | <a href="https://project-kodi.github.io/Information/">https://project-kodi.github.io/Information/</a> | <a href="https://project-kodi.github.io/Information/Project%20Kodi%20Repository%20%20-%20repository.project.kodi/">https://project-kodi.github.io/Information/Project%20Kodi%20Repository%20%20-%20repository.project.kodi/</a> | <a href="https://project-kodi.github.io/Information/NFO%20Exporter%20-%20plugin.context.nfoexporter/">https://project-kodi.github.io/Information/NFO%20Exporter%20-%20plugin.context.nfoexporter/</a> | <a href="https://project-kodi.github.io/Information/Texture%20Cache%20Tool%20-%20GUI%20Version%20-%20plugin.program.tctgui/">https://project-kodi.github.io/Information/Texture%20Cache%20Tool%20-%20GUI%20Version%20-%20plugin.program.tctgui/</a> | <a href="https://project-kodi.github.io/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com/">https://project-kodi.github.io/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com/</a> | <a href="https://project-kodi.github.io/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python/">https://project-kodi.github.io/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python/</a> | <a href="https://project-kodi.github.io/Information/Unlock%20Kodi%20Advanced%20Settings%20-%20script.unlock.advancedsettings/">https://project-kodi.github.io/Information/Unlock%20Kodi%20Advanced%20Settings%20-%20script.unlock.advancedsettings/</a> | <a href="https://project-kodi.github.io/texturecache.py/">https://project-kodi.github.io/texturecache.py/</a> | <a href="https://project-kodi.github.io/script.unlock.advancedsettings/">https://project-kodi.github.io/script.unlock.advancedsettings/</a>
+
+<a href="https://project-plex.github.io/"></a> | <a href="https://project-plex.github.io/Project-Plex/"></a> | <a href="https://project-plex.github.io/SportScanner/"></a>
