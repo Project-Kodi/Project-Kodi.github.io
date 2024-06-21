@@ -95,7 +95,7 @@
 <b>=> Project Kodi - Unlock Kodi Advanced Settings - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Unlock%20Kodi%20Advanced%20Settings%20-%20script.unlock.advancedsettings">script.unlock.advancedsettings</a></b> 
 
 
-## Sitemap of Project Kodi & Project Plex <img src="https://raw.githubusercontent.com/Project-Kodi/Project-Kodi.github.io/main/Information/_images/Sitemap_Project-Kodi_Project-Plex.jpg" alt="Google Sitemap for Github Projects: Project-Kodi & Project-Plex" height="30">
+## <img src="https://raw.githubusercontent.com/Project-Kodi/Project-Kodi.github.io/main/Information/_images/Sitemap_Project-Kodi_Project-Plex.jpg" alt="Google Sitemap for Github Projects: Project-Kodi & Project-Plex" height="32"> Sitemap of Project Kodi & Project Plex 
 
 
 
