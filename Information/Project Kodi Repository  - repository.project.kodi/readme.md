@@ -1,3 +1,7 @@
+
+> [!NOTE]
+> Support us on Patreon: <a href="https://patreon.com/ProjectKodi">patreon.com/ProjectKodi</a>
+
 # Project Kodi - Project Kodi Repository 
 ## repository.project.kodi
 

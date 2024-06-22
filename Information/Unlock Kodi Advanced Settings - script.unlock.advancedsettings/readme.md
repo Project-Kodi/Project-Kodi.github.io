@@ -1,3 +1,7 @@
+
+> [!NOTE]
+> Support us on Patreon: <a href="https://patreon.com/ProjectKodi">patreon.com/ProjectKodi</a>
+
 # Project Kodi - Unlock Kodi Advanced Settings
 ## script.unlock.advancedsettings
 
