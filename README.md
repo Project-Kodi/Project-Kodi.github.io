@@ -1,6 +1,6 @@
 
 > [!NOTE]
-> Support us on Patreon: <a href="patreon.com/ProjectKodi">patreon.com/ProjectKodi</a>
+> Support us on Patreon: <a href="https://patreon.com/ProjectKodi">patreon.com/ProjectKodi</a>
 
 # Project Kodi - Repository Addon - English:
 ## Current Version: 1.0.1
