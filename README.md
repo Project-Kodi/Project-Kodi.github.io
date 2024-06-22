@@ -1,3 +1,9 @@
+
+> [!NOTE]
+> Support us on Patreon: patreon.com/ProjectKodi
+
+> <img src="https://raw.githubusercontent.com/Project-Kodi/Project-Kodi.github.io/main/Information/_images/Logo_Project-Kodi_Project-Plex_patreon.png" alt="patreon.com/ProjectKodi" height="60"> 
+
 # Project Kodi - Repository Addon - English:
 ## Current Version: 1.0.1
 
