@@ -5,7 +5,7 @@
 # Project Kodi - Repository Addon - English:
 ## Current Version: 1.0.1
 
-=> Instructions for adding this repository:
+<b>=> Instructions for adding this repository:</b>
 
 
 <p align="left">
@@ -21,7 +21,7 @@
 </p>
 
 
-=> Instructions for installing addons from Project Kodi Repository:
+<b>=> Instructions for installing addons from Project Kodi Repository:</b>
 <p align="left">
 	<ul>
 		<li>Go to "Addons", select "Install from repository".</li>
@@ -57,7 +57,7 @@
 # Project Kodi - Repository Addon - German:
 ## Current Version: 1.0.1
 
-=> Anweisungen zum Hinzufügen dieses Repositorys:
+<b>=> Anweisungen zum Hinzufügen dieses Repositorys:</b>
 
 
 <p align="left">
@@ -71,7 +71,7 @@
 		<li>Zusätzlich sollte man die automatische Aktualisierung einschalten: Gehe zu "Addons", wähle "Benutzer Addons", danach "Addon-Repository", wähle "Project Kodi Repository" und aktiviere die automatische Aktualisierung.</li>
 	</ul>
 </p>
-=> Anweisungen zum Installieren von Add-ons aus dem Project Kodi Repository:
+<b>=> Anweisungen zum Installieren von Add-ons aus dem Project Kodi Repository:</b>
 <p align="left">
 	<ul>
 		<li>Gehe zu "Addons", wähle "Aus Repository installieren" aus.</li>
