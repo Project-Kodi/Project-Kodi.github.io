@@ -316,7 +316,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 <img height="600" src="_images/addon_season_folder02.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
-- Exampe File as ZIP:
+- Exampe File as ZIP after scrapping:
 
 <img height="600" src="_images/addon_example_files01.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
