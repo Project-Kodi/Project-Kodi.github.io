@@ -123,7 +123,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
   - Exclude Leagues by name: If you want to add the feature, but not to all TV shows/leagues, then you can exclude leagues with names here. Example: `Formula 1, Copa America, French Ligue 1` (I) 
 
 > [!TIP]
-> Even if you have problems viewing the series in the menu if you have activated the function, you should add this TV show/league to the list. (Example: no numbers are displayed next to the episodes or the series is not recognized at all)
+> Even if you have problems viewing the series in the menu if you have activated the function, you should add this TVShow/League to the list. (Example: no numbers are displayed next to the episodes or the series is not recognized at all)
 
 <img height="600" src="_images/addon05.jpg" alt="Addon Settings">
 
@@ -155,7 +155,9 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Seasons
 
-  - Use League Poster for all Seasons
+  - Use League Poster for all Seasons: There are currently not yet separate posters available for all seasons in the TSDB. If you activate the function, the addon will automatically take the league poster for all series.
+
+> [!TIP] If you deactivate the function, all available season posters will be used/downloaded. If none is available for a season, the TVShow/League poster will be used
 
 - Character Art (Player)
 
