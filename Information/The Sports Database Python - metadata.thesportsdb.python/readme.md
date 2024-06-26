@@ -23,7 +23,34 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 ## Addon Download and Installation
 
+
 ### Addon Download - Project-Kodi Repository
+
+
+<p align="left">
+	<ul>
+		<li>Go to the Kodi file manager.</li>
+		<li>Click on "Add source".</li>
+		<li>The path for the source is: <code>https://Project-Kodi.github.io/</code> (Give it the name "Project Kodi Repository").</li>
+		<li>Go to "Addons".</li>
+		<li>In addons, install an addon from zip.  When it asks for the location, select "Project Kodi Repository", and install <a href="repository.project.kodi-1.0.1.zip">repository.project.kodi-1.0.1.zip</a>.</li>
+		<li>Now the repository is available in Kodi.</li>
+		<li>Additionally, you should turn on automatic updating: Go to “Addons”, select “User Addons”, then “Addon Repository”, select “Project Kodi Repository” and activate automatic updating.</li>
+	</ul>
+</p>
+
+
+<b>=> Instructions for installing addons from Project Kodi Repository:</b>
+<p align="left">
+	<ul>
+		<li>Go to "Addons", select "Install from repository".</li>
+		<li>Select the "Project Kodi Repository".</li>
+		<li>Go into the accordingly section in the repository (video-plugin, scraper,..), and you'll find the apps</li>
+	</ul>
+</p>
+
+
+
 
 <img height="400" src="_images/addon01.jpg" alt="Addon Settings">
 
