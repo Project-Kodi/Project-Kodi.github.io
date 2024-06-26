@@ -24,7 +24,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 ## Addon Download and Installation
 
 
-### Install- Project-Kodi Repository
+### 1. Install - Project-Kodi Repository
 
 
 <p align="left">
@@ -39,7 +39,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 	</ul>
 </p>
 
-### Install- The Sports Database Addon
+### 2. Install - The Sports Database Addon
 
 <b>=> Instructions for installing addons from Project Kodi Repository:</b>
 <p align="left">
