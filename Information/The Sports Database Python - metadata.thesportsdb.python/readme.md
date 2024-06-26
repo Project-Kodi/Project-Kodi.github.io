@@ -27,6 +27,8 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Addong Using
 
+- Examples after scraping
+
 ## Addon Download and Installation
 
 
@@ -303,6 +305,12 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 > [!IMPORTANT]
 > Preview images of the players are missing here and when you select a player, the detailed information is also missing! another plugin needs to be written.
+
+## Examples after scraping
+
+- English Premier League:
+
+<img height="600" src="_images/addon_season_folder.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
 
 :+1: Thank you for reading! :shipit: you can find me on discord!
