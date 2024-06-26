@@ -134,9 +134,9 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - TVShows
 
-  - Download Poster in TVShow folder: Here you can switch on whether poster should also be saved locally in the series folder.
+  - **Download Poster in TVShow folder**: Here you can switch on whether poster should also be saved locally in the series folder.
 
-  - Poster filename for TVShow: You can control the file naming here. In the series folder as `poster.jpg` or as `seriesname-poster.jpg`.
+  - **Poster filename for TVShow**: You can control the file naming here. In the series folder as `poster.jpg` or as `seriesname-poster.jpg`.
 
   - Download Fanart in TVShow folder: Here you can switch on whether fanart should also be saved locally in the series folder. (At this time, only 1 fanart from max.5 possible - Update..)
 
