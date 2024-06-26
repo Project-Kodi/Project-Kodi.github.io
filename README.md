@@ -83,7 +83,7 @@
 ## Kodi Addons:
 
 > [!TIP]
-> Are you a sports series collector? Then try The Sports Database Python!
+> Are you a sports series collector? Then try The Sports Database Python: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python">metadata.thesportsdb.python</a>!
 
 <b>=> Project Kodi - NFO Exporter - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/NFO%20Exporter%20-%20plugin.context.nfoexporter">plugin.context.nfoexporter</a></b>
 
