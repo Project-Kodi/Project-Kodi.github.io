@@ -191,7 +191,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Premium 
 
-  - **API Key TheSportsDB**: If you are a supporter of TheSportsdb.com, you can enter your own API key. But this is not necessary as we have already integrated a key. In the later future, there could be features that only Patreon supporters can activate.
+  - **API Key TheSportsDB**: If you are a supporter of TheSportsDB.com, you can enter your own API key. But this is not necessary as we have already integrated a key. In the later future, there could be features that only Patreon supporters can activate.
 
 > [!IMPORTANT]
 > **Support us on Patreon:** <a href="https://www.patreon.com/ProjectKodi">patreon.com/ProjectKodi</a>
@@ -200,7 +200,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
   - **Visit us @ Github**: This is our Github Website: <a href="https://project-kodi.github.io/">Project-Kodi.github.io</a> | Our Kodi Repository and documentation: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main">github.com/Project-Kodi/Project-Kodi.github.io/</a> 
 
-  - **Visit TheSportsDB Discord - Support**: You get support for the addon via Discord but also for the data from thesportsdb.com A large active community. <a href="https://discord.gg/pFvgaXV">discord.gg/pFvgaXV</a>
+  - **Visit TheSportsDB Discord - Support**: You get support for the addon via Discord but also for the data from TheSportsDB.com A large active community. <a href="https://discord.gg/pFvgaXV">discord.gg/pFvgaXV</a>
 
 <img height="600" src="_images/addon08.jpg" alt="Addon Settings">
 
@@ -222,7 +222,8 @@ bla bla
 
 
 
-:+1: thank you for reading! :shipit:
+:+1: Thank you for reading! :shipit: you can find me on discord!
+:+1: Thanks also to ZAG, the operator of <a href="https://www.thesportsdb.com/">thesportsdb.com</a> which supports all Kodi and Plex users with its data. Helping hands are always needed for content creation, visit the Discord Channel: <a href="https://discord.gg/pFvgaXV">discord.gg/pFvgaXV</a>
 
 
 > [!TIP]
