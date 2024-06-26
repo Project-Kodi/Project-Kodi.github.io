@@ -289,17 +289,21 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 ### Addong Using - Kodi Default Ski - Actor View 
 
-- Actor X:
+- Actor, view from more information in league:
 
 <img height="600" src="_images/addon_view_actor01.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
-- Actor X:
+- Actor, same view, which episodes do I have with these player?
 
 <img height="600" src="_images/addon_view_actor02.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
-- Actor X:
+- Actor, same view, get all player from this league:
 
 <img height="600" src="_images/addon_view_actor03.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
+
+> [!IMPORTANT]
+> Preview images of the players are missing here and when you select a player, the detailed information is also missing! another plugin needs to be written.
+
 
 :+1: Thank you for reading! :shipit: you can find me on discord!
 
