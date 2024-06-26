@@ -85,11 +85,21 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
   - Ignore local NFO file: With Kodi you can't turn off the search for NFO files, but you can bypass it. The NFO file must contain at least one of the following tags with data. Example <tsdb>4234</tsdb> or <episodeguide>{tsdb:4234}</episodeguide>. Tags: <title>, <showtitle>, <originaltitle>, <strLeague>, <tsdb>, <episodeguide> and <tvshowsource>.
 
-  > [!TIP]
+> [!TIP]
 > Before scraping the first time, you should remove any existing NFO files in your Sports Series folder.
 > Kodi then always fetches the most current data from the Internet, even if an NFO file has been saved.
 
 - NFO
+
+  - x
+
+    - y
+
+  - x
+
+  - x
+
+  - x
 
 <img height="600" src="_images/addon03.jpg" alt="Addon Settings">
 
