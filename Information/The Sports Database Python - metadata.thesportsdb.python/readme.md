@@ -103,11 +103,11 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
     
     - Choose own path - Episode: You can choose any path regardless of the operating system.
 
-  - NFO filename TVShow: You can change the name of the NFO file. Option 1: tvshow.nfo 2: tvshowname.nfo | It is stored in the series folder or in the desired path.
+  - NFO filename TVShow: You can change the name of the NFO file. Option 1: `tvshow.nfo` 2: `tvshowname.nfo` | It is stored in the series folder or in the desired path.
 
-  - NFO filename Season: You can change the name of the NFO file. Option 1: seasonXX.nfo - stored in tvshow folder Option 2: season.nfo - stored in the tvshow/seasonXX folder. Both options also work in the desired path.
+  - NFO filename Season: You can change the name of the NFO file. Option 1: `seasonXX.nfo` - stored in tvshow folder Option 2: `season.nfo` - stored in the tvshow/seasonXX folder. Both options also work in the desired path.
 
-  - NFO filename Episode: You can change the name of the NFO file. At this time only one option here. Option 1: episodename.nfo | is stored in the Series/Season X/ folder or in the desired path.
+  - NFO filename Episode: You can change the name of the NFO file. At this time only one option here. Option 1: `episodename.nfo` | is stored in the Series/Season X/ folder or in the desired path.
 
 <img height="600" src="_images/addon03.jpg" alt="Addon Settings">
 
@@ -118,7 +118,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Title
 
-  - Add Date to episode name: A date is added to the title of the episode in Kodi. Example - normal: 04. Venezuela vs Mexico | Example changed:  04. Venezuela vs Mexico - Sat 3rd Mrz
+  - Add Date to episode name: A date is added to the title of the episode in Kodi. Example - normal: `04. Venezuela vs Mexico` | Example changed:  `04. Venezuela vs Mexico - Sat 3rd Mrz`
 
   - Exclude Leagues by name: If you want to add the feature, but not to all TV shows/leagues, then you can exclude leagues with names here. Example: Formula 1, Copa America, French Ligue 1 
 
@@ -133,19 +133,19 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
   - Download Poster in TVShow folder: Here you can switch on whether poster should also be saved locally in the series folder.
 
-  - Poster filename for TVShow: You can control the file naming here. In the series folder as poster.jpg or as seriesname-poster.jpg.
+  - Poster filename for TVShow: You can control the file naming here. In the series folder as `poster.jpg` or as `seriesname-poster.jpg`.
 
   - Download Fanart in TVShow folder: Here you can switch on whether fanart should also be saved locally in the series folder. (At this time, only 1 fanart from max.5 possible - Update..)
 
-  - Fanart filname for TVShow: You can control the file naming here. In the series folder as fanart.jpg or as seriesname-fanart.jpg.
+  - Fanart filname for TVShow: You can control the file naming here. In the series folder as `fanart.jpg` or as `seriesname-fanart.jpg`.
 
   - Download Banner in TVShow folder: Here you can switch on whether banner should also be saved locally in the series folder.
 
-  - Banner filename TVShow: You can control the file naming here. In the series folder as banner.jpg or as seriesname-banner.jpg.
+  - Banner filename TVShow: You can control the file naming here. In the series folder as `banner.jpg` or as `seriesname-banner.jpg`.
 
   - Download ClearLogo in TVShow folder: Here you can switch on whether clearlogo should also be saved locally in the series folder.
 
-  - ClearLogo filename for TVShow: You can control the file naming here. In the series folder as clearlogo.jpg or as seriesname-clearlogo.jpg.
+  - ClearLogo filename for TVShow: You can control the file naming here. In the series folder as `clearlogo.jpg` or as `seriesname-clearlogo`.jpg.
 
   - <b>Feature DL Season Posters - open</b>
 
