@@ -208,17 +208,84 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 ## Addong Using
 
-### Addong Using - xyz 
+### Addong Using - Kodi Default Ski - TVShow View
 
-bla bla
+- Leage Wideist:
 
-### Addong Using - dsa 
+<img height="600" src="_images/addon_view_league_widelist.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
-bla bla
+- Leage Wall:
 
-### Addong Using - qwe 
+<img height="600" src="_images/addon_view_league_wall" alt="Addon Settings">
 
-bla bla
+- League Shift:
+
+<img height="600" src="_images/addon_view_league_shift.jpg" alt="Addon Settings">
+
+- League Poster:
+
+<img height="600" src="_images/addon_view_league_poster.jpg" alt="Addon Settings">
+
+- League List:
+
+<img height="600" src="_images/addon_view_league_list.jpg" alt="Addon Settings">
+
+- League Infowall:
+
+<img height="600" src="_images/addon_view_league_infowall.jpg" alt="Addon Settings">
+
+- League Fanart:
+
+<img height="600" src="_images/addon_view_league_fanart.jpg" alt="Addon Settings">
+
+- League Banner:
+
+<img height="600" src="_images/addon_view_league_banner.jpg" alt="Addon Settings">
+
+
+### Addong Using - Kodi Default Ski - Season View
+
+- Season Widelist:
+
+<img height="600" src="_images/addon_view_season_widelist.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
+
+- Season Wall:
+
+<img height="600" src="_images/addon_view_season_wall.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
+
+- Season Shift:
+
+<img height="600" src="_images/addon_view_season_shift.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
+
+- Season Poster:
+
+<img height="600" src="_images/addon_view_season_poster.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
+
+- Season List:
+
+<img height="600" src="_images/addon_view_season_list.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
+
+- Season Infowall:
+
+<img height="600" src="_images/addon_view_season_infowall.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
+
+- Season Fanart:
+
+<img height="600" src="_images/addon_view_season_fanart.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
+
+### Addong Using - Kodi Default Ski - Episode View 
+
+- Episode Widelist:
+
+<img height="600" src="_images/addon_view_episode_widelist.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
+
+- Episode Wall:
+
+<img height="600" src="_images/addon_view_episode_wall.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
+
+- Episode Infowall:
+
+<img height="600" src="_images/addon_view_episode_infowall.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
 
 
