@@ -19,9 +19,30 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
   
 
 
-# A first-level heading
-## A second-level heading
-### A third-level heading
+# Documentation
+
+## Addon Download and Installation
+
+### Addon Download - Project-Kodi Repository
+
+
+## Addon Settings
+
+### Addon Settings - General 
+
+### Addon Settings - NFO
+
+### Addon Settings - Modifications 
+
+### Addon Settings - Artwork 
+
+### Addon Settings - Logging & Other
+
+
+
+![](/_images/addon01.jpg)
+
+
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
