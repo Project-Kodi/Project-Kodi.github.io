@@ -162,17 +162,17 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Character Art (Player)
 
-  - **User Character ARt**:
+  - **User Character Art**: If you activate this function, the desired character arts will be added to the Kodi database.
 
-  - **Character Art Version**: 
+  - **Character Art Version**: There are 2 different representations of players/participants. From the front as `Player Cutout` and as a picture where the player/participant is in motion `Player Action Render`. 
 
-  - **Download Character Art**:
+  - **Download Character Art**: The character art is not only loaded into the Kodi database, it is also downloaded but a maximum of 10 images are saved in the desired folder.
 
-  - **Character Art filename**:
+  - **Character Art filename**: There are 2 options: 1. `characterart.png - characterart9.png` or 2. `tvshowfoldername-characterart.png - tvshowfoldername-characterart9.png`.
 
-  - **Save in the respective TVShow folder**:
+  - **Save in the respective TVShow folder**: If activated, the images will be stored in the series folder.
 
-  - **Choose your own path**:
+  - **Choose your own path**: You can also enter your own path for saving the images.
 
 
 <img height="600" src="_images/addon06.jpg" alt="Addon Settings">
@@ -185,13 +185,16 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Logging
 
-  - **Verbose debug logging**
+  - **Verbose debug logging**: Lots of details are written. In normal operation, this feature should be disabled. It slows down the scraper extremely.
 
-  - **Verbose debug logging extreme**
+  - **Verbose debug logging extreme**: Many more details are recorded. In normal operation, this feature should be disabled. It slows down the scraper extremely. 1 series can generate a log larger than 1 GB!
 
 - Premium 
 
-  - **API Key TheSportsDB**
+  - **API Key TheSportsDB**: If you are a supporter of TheSportsdb.com, you can enter your own API key. But this is not necessary as we have already integrated a key.
+
+> [!IMPORTANT]
+> Support us on Patreon: patreon.com/ProjectKodi
 
 - Support
 
