@@ -31,9 +31,9 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 ### Addon Settings - General 
 
-<img height="400" src="_images/addon01.jpg" alt="Addon Settings">
-
 <img height="400" src="_images/addon02.jpg" alt="Addon Settings">
+
+
 
 ### Addon Settings - NFO
 
@@ -41,15 +41,23 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 <img height="400" src="_images/addon04.jpg" alt="Addon Settings">
 
+
+
+
 ### Addon Settings - Modifications 
 
 <img height="400" src="_images/addon05.jpg" alt="Addon Settings">
+
+
+
 
 ### Addon Settings - Artwork 
 
 <img height="400" src="_images/addon06.jpg" alt="Addon Settings">
 
+
 <img height="400" src="_images/addon07.jpg" alt="Addon Settings">
+
 
 ### Addon Settings - Logging & Other
 
