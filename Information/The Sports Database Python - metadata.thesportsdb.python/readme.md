@@ -200,7 +200,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
   - **Visit us @ Github**: This is our Github Website: <a href="https://project-kodi.github.io/">Project-Kodi.github.io</a> | Our Kodi Repository and documentation: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main">github.com/Project-Kodi/Project-Kodi.github.io/</a> 
 
-  - **Visit TheSportsDB Discord - Support**: You get support for the addon via Discord but also for the data from thesportsdb.com A large active community. <a href="discord.gg/pFvgaXV">discord.gg/pFvgaXV</a>
+  - **Visit TheSportsDB Discord - Support**: You get support for the addon via Discord but also for the data from thesportsdb.com A large active community. <a href="https://discord.gg/pFvgaXV">discord.gg/pFvgaXV</a>
 
 <img height="600" src="_images/addon08.jpg" alt="Addon Settings">
 
