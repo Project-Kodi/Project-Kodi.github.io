@@ -25,22 +25,37 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 ### Addon Download - Project-Kodi Repository
 
+<img height="400" src="_images/addon01.jpg" alt="Addon Settings">
 
 ## Addon Settings
 
 ### Addon Settings - General 
 
+<img height="400" src="_images/addon01.jpg" alt="Addon Settings">
+
+<img height="400" src="_images/addon02.jpg" alt="Addon Settings">
+
 ### Addon Settings - NFO
+
+<img height="400" src="_images/addon03.jpg" alt="Addon Settings">
+
+<img height="400" src="_images/addon04.jpg" alt="Addon Settings">
 
 ### Addon Settings - Modifications 
 
+<img height="400" src="_images/addon05.jpg" alt="Addon Settings">
+
 ### Addon Settings - Artwork 
+
+<img height="400" src="_images/addon06.jpg" alt="Addon Settings">
+
+<img height="400" src="_images/addon07.jpg" alt="Addon Settings">
 
 ### Addon Settings - Logging & Other
 
+<img height="400" src="_images/addon08.jpg" alt="Addon Settings">
 
 
-![](_images/addon01.jpg)
 
 
 
