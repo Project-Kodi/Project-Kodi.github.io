@@ -21,6 +21,12 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 # Documentation
 
+- Addon Download and Installation
+
+- Addon Settings
+
+- Addong Using
+
 ## Addon Download and Installation
 
 
@@ -109,6 +115,20 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 <img height="400" src="_images/addon08.jpg" alt="Addon Settings">
 
 
+
+## Addong Using
+
+### Addong Using - xyz 
+
+bla bla
+
+### Addong Using - dsa 
+
+bla bla
+
+### Addong Using - qwe 
+
+bla bla
 
 
 
