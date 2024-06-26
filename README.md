@@ -95,7 +95,7 @@
 <b>=> Project Kodi - The Sports Database Python - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python">metadata.thesportsdb.python</a> | <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python/File%20Naming%20%26%20Tools/Example%20files%20for%20naming">Examples for Naming.zip</a></b>
 
 > [!TIP]
-> Are you a sports series collector? Then try the following addon!
+> Are you a sports series collector? Then try The Sports Database Python!
 
 <b>=> Project Kodi - The Sports Database</b> (Nur verwenden, wenn die Python Version nicht funktioniert - älter!)<b> - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com">metadata.thesportsdb.com</a> | <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com/File%20Naming%20%26%20Tools/Example%20files%20for%20naming">Examples for Naming.zip</a></b>
 
