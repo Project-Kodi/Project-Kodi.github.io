@@ -95,7 +95,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
   - Overwrite NFO files if exists: If an NFO file exists, it will be overwritten
 
-  - Save in the respective TVShow/Season/Episode folder: The NFO file is stored in the series folder. Example: C:\Sport-Series\Formula 1\tvshow.nfo
+  - Save in the respective TVShow/Season/Episode folder: The NFO file is stored in the series folder. Example: `C:\Sport-Series\Formula 1\tvshow.nfo`
 
     - Choose own path - TVShow: You can choose any path regardless of the operating system.
 
@@ -120,7 +120,10 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
   - Add Date to episode name: A date is added to the title of the episode in Kodi. Example - normal: `04. Venezuela vs Mexico` | Example changed:  `04. Venezuela vs Mexico - Sat 3rd Mrz`
 
-  - Exclude Leagues by name: If you want to add the feature, but not to all TV shows/leagues, then you can exclude leagues with names here. Example: Formula 1, Copa America, French Ligue 1 
+  - Exclude Leagues by name: If you want to add the feature, but not to all TV shows/leagues, then you can exclude leagues with names here. Example: `Formula 1, Copa America, French Ligue 1` (I) 
+
+> [!TIP]
+> Even if you have problems viewing the series in the menu, you should add this TV show/league to the list. (Example: no numbers are displayed next to the episodes or the series is not recognized at all)
 
 <img height="600" src="_images/addon05.jpg" alt="Addon Settings">
 
