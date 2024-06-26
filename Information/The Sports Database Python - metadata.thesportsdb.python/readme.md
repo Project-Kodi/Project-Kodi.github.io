@@ -223,6 +223,7 @@ bla bla
 
 
 :+1: Thank you for reading! :shipit: you can find me on discord!
+
 :+1: Thanks also to ZAG, the operator of <a href="https://www.thesportsdb.com/">thesportsdb.com</a> which supports all Kodi and Plex users with its data. Helping hands are always needed for content creation, visit the Discord Channel: <a href="https://discord.gg/pFvgaXV">discord.gg/pFvgaXV</a>
 
 
