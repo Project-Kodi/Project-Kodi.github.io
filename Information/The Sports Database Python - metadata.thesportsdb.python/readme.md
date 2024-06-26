@@ -194,7 +194,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
   - **API Key TheSportsDB**: If you are a supporter of TheSportsdb.com, you can enter your own API key. But this is not necessary as we have already integrated a key.
 
 > [!IMPORTANT]
-> Support us on Patreon: patreon.com/ProjectKodi
+> **Support us on Patreon:** <a href="https://www.patreon.com/ProjectKodi">patreon.com/ProjectKodi</a>
 
 - Support
 
