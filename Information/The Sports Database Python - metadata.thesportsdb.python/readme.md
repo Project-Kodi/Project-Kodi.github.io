@@ -83,7 +83,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Scraper
 
-  - Ignore local NFO file: With Kodi you can't turn off the search for NFO files, but you can bypass it. The NFO file must contain at least one of the following tags with data. Example `<tsdb>4234</tsdb>` or `<episodeguide>{tsdb:4234}</episodeguide>`. Tags: `<title>  <showtitle> <originaltitle>  <strLeague>  <tsdb>  <episodeguide> <tvshowsource>`.
+  - Ignore local NFO file: With Kodi you can't turn off the search for NFO files, but you can bypass it. The NFO file must contain at least one of the following tags with data. Example `<tsdb>4234</tsdb>` or `<episodeguide>{tsdb:4234}</episodeguide>`. Tags: `<title> <showtitle> <originaltitle> <strLeague> <tsdb> <episodeguide> <tvshowsource>`.
 
 > [!TIP]
 > Before scraping the first time, you should remove any existing NFO files without TSDB Data in your Sports Series folder.
@@ -91,23 +91,23 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - NFO
 
-  - Write NFO file:
+  - Write NFO file: First, the scraper imports all information into the database and then writes a desired NFO file according to guidelines. `https://kodi.wiki/view/NFO_files/TV_shows`
 
-  - Overwrite NFO files if exists:
+  - Overwrite NFO files if exists: If an NFO file exists, it will be overwritten
 
-  - Save in the respective TVShow/Season/Episode folder:
+  - Save in the respective TVShow/Season/Episode folder: The NFO file is stored in the series folder. Example: C:\Sport-Series\Formula 1\tvshow.nfo
 
-    - Choose own path - TVShow:
+    - Choose own path - TVShow: You can choose any path regardless of the operating system.
 
-    - Choose own path - Season:
+    - Choose own path - Season: You can choose any path regardless of the operating system.
     
-    - Choose own path - Episode:
+    - Choose own path - Episode: You can choose any path regardless of the operating system.
 
-  - NFO filename TVShow: tvshow.nfo/wvshowfilename.nfo
+  - NFO filename TVShow: You can change the name of the NFO file. Option 1: tvshow.nfo 2: tvshowname.nfo | It is stored in the series folder or in the desired path.
 
-  - NFO filename Season: seasonxx in path own or serie // serie/Staffel X/season.nfo
+  - NFO filename Season: You can change the name of the NFO file. Option 1: seasonXX.nfo - stored in tvshow folder Option 2: season.nfo - stored in the tvshow/seasonXX folder. Both options also work in the desired path.
 
-  - NFO filename Episode: episodename.nfo in serie/staffel x or own path
+  - NFO filename Episode: You can change the name of the NFO file. At this time only one option here. Option 1: episodename.nfo | is stored in the Series/Season X/ folder or in the desired path.
 
 <img height="600" src="_images/addon03.jpg" alt="Addon Settings">
 
@@ -118,9 +118,9 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Title
 
-  - Add Date to episode name
+  - Add Date to episode name: A date is added to the title of the episode in Kodi. Example - normal: Venezuela vs Mexico | Example changed:  Venezuela vs Mexico - Sat 3rd Mrz
 
-  - Exclude Leagues by name:
+  - Exclude Leagues by name: If you want to add the feature, but not to all TV shows/leagues, then you can exclude leagues with names here. Example: Formula 1, Copa America, French Ligue 1 
 
 <img height="600" src="_images/addon05.jpg" alt="Addon Settings">
 
