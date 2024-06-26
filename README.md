@@ -102,9 +102,9 @@
 
 <b>=> Project Kodi - The Sports Database Python - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python">metadata.thesportsdb.python</a> | <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python/File%20Naming%20%26%20Tools/Example%20files%20for%20naming">Examples for Naming.zip</a></b>
 
-<b>=> Project Kodi - The Sports Database</b> (Nur verwenden, wenn die Python Version nicht funktioniert - älter!)<b> - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com">metadata.thesportsdb.com</a> | <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com/File%20Naming%20%26%20Tools/Example%20files%20for%20naming">Examples for Naming.zip</a></b>
-
 - Web: <code>https://project-kodi.github.io/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python/</code>
+
+<b>=> Project Kodi - The Sports Database</b> (Nur verwenden, wenn die Python Version nicht funktioniert - älter!)<b> - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com">metadata.thesportsdb.com</a> | <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com/File%20Naming%20%26%20Tools/Example%20files%20for%20naming">Examples for Naming.zip</a></b>
 
 <b>=> Project Kodi - Unlock Kodi Advanced Settings - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Unlock%20Kodi%20Advanced%20Settings%20-%20script.unlock.advancedsettings">script.unlock.advancedsettings</a></b> 
 
