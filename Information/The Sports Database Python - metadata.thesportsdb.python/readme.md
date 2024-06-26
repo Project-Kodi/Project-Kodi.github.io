@@ -63,19 +63,19 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Language
 
-  - Preferred language (Fallback EN): Title/description and other texts are retrieved in this selected language.
+  - **Preferred language (Fallback EN)**: Title/description and other texts are retrieved in this selected language. If the desired language is not available, English will be used.
 
 - Trailer
 
-  - Enable Trailer: Is for episodes only, information is already stored in Kodi, but trailers are not yet supported for episodes.
+  - **Enable Trailer**: Is for episodes only, information is already stored in Kodi, but trailers are not yet supported for episodes.
 
-  - Addon Player: Used for playing the trailer (not used at this time)
+  - **Addon Player**: Used for playing the trailer (not used at this time)
 
 - API:
 
-  - TSDB - API Version: Here you can switch between the API versions. You only get the latest features with version 2.
+  - **TSDB - API Version**: Here you can switch between the API versions. You only get the latest features with version 2.
 
-  - Sleep in seconds each API call: Since only 100 requests are allowed per minute, you need at least 0.1 seconds delay. (Fast server/workstations)
+  - **Sleep in seconds each API call**: Since only 100 requests are allowed per minute, you need at least 0.1 seconds delay. (Fast server/workstations)
 
 <img height="600" src="_images/addon02.jpg" alt="Addon Settings">
 
@@ -83,7 +83,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Scraper
 
-  - Ignore local NFO file: With Kodi you can't turn off the search for NFO files, but you can bypass it. The NFO file must contain at least one of the following tags with data. Example `<tsdb>4234</tsdb>` or `<episodeguide>{tsdb:4234}</episodeguide>`. Tags: `<title> <showtitle> <originaltitle> <strLeague> <tsdb> <episodeguide> <tvshowsource>`.
+  - **Ignore local NFO file**: With Kodi you can't turn off the search for NFO files, but you can bypass it. The NFO file must contain at least one of the following tags with data. Example `<tsdb>4234</tsdb>` or `<episodeguide>{tsdb:4234}</episodeguide>`. Tags: `<title> <showtitle> <originaltitle> <strLeague> <tsdb> <episodeguide> <tvshowsource>`.
 
 > [!TIP]
 > Before scraping the first time, you should remove any existing NFO files without TSDB Data in your Sports Series folder.
@@ -91,23 +91,23 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - NFO
 
-  - Write NFO file: First, the scraper imports all information into the database and then writes a desired NFO file according to guidelines. `https://kodi.wiki/view/NFO_files/TV_shows`
+  - **Write NFO file**: First, the scraper imports all information into the database and then writes a desired NFO file according to guidelines. `https://kodi.wiki/view/NFO_files/TV_shows`
 
-  - Overwrite NFO files if exists: If an NFO file exists, it will be overwritten
+  - **Overwrite NFO files if exists**: If an NFO file exists, it will be overwritten
 
-  - Save in the respective TVShow/Season/Episode folder: The NFO file is stored in the series folder. Example: `C:\Sport-Series\Formula 1\tvshow.nfo`
+  - **Save in the respective TVShow/Season/Episode folder**: The NFO file is stored in the series folder. Example: `C:\Sport-Series\Formula 1\tvshow.nfo`
 
-    - Choose own path - TVShow: You can choose any path regardless of the operating system.
+    - **Choose own path - TVShow**: You can choose any path regardless of the operating system.
 
-    - Choose own path - Season: You can choose any path regardless of the operating system.
+    - **Choose own path - Season**: You can choose any path regardless of the operating system.
     
-    - Choose own path - Episode: You can choose any path regardless of the operating system.
+    - **Choose own path - Episode**: You can choose any path regardless of the operating system.
 
-  - NFO filename TVShow: You can change the name of the NFO file. Option 1: `tvshow.nfo` 2: `tvshowname.nfo` | It is stored in the series folder or in the desired path.
+  - **NFO filename TVShow**: You can change the name of the NFO file. Option 1: `tvshow.nfo` 2: `tvshowname.nfo` | It is stored in the series folder or in the desired path.
 
-  - NFO filename Season: You can change the name of the NFO file. Option 1: `seasonXX.nfo` - stored in tvshow folder Option 2: `season.nfo` - stored in the tvshow/seasonXX folder. Both options also work in the desired path.
+  - **NFO filename Season**: You can change the name of the NFO file. Option 1: `seasonXX.nfo` - stored in tvshow folder Option 2: `season.nfo` - stored in the tvshow/seasonXX folder. Both options also work in the desired path.
 
-  - NFO filename Episode: You can change the name of the NFO file. At this time only one option here. Option 1: `episodename.nfo` | is stored in the Series/Season X/ folder or in the desired path.
+  - **NFO filename Episode**: You can change the name of the NFO file. At this time only one option here. Option 1: `episodename.nfo` | is stored in the Series/Season X/ folder or in the desired path.
 
 <img height="600" src="_images/addon03.jpg" alt="Addon Settings">
 
@@ -118,9 +118,9 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Title
 
-  - Add Date to episode name: A date is added to the title of the episode in Kodi. Example - normal: `04. Venezuela vs Mexico` | Example changed:  `04. Venezuela vs Mexico - Sat 3rd Mrz`
+  - **Add Date to episode name**: A date is added to the title of the episode in Kodi. Example - normal: `04. Venezuela vs Mexico` | Example changed:  `04. Venezuela vs Mexico - Sat 3rd Mrz`
 
-  - Exclude Leagues by name: If you want to add the feature, but not to all TV shows/leagues, then you can exclude leagues with names here. Example: `Formula 1, Copa America, French Ligue 1` (I) 
+  - **Exclude Leagues by name**: If you want to add the feature, but not to all TV shows/leagues, then you can exclude leagues with names here. Example: `Formula 1, Copa America, French Ligue 1` (I) 
 
 > [!TIP]
 > Even if you have problems viewing the series in the menu if you have activated the function, you should add this TVShow/League to the list. (Example: no numbers are displayed next to the episodes or the series is not recognized at all)
@@ -138,41 +138,41 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
   - **Poster filename for TVShow**: You can control the file naming here. In the series folder as `poster.jpg` or as `seriesname-poster.jpg`.
 
-  - Download Fanart in TVShow folder: Here you can switch on whether fanart should also be saved locally in the series folder. (At this time, only 1 fanart from max.5 possible - Update..)
+  - **Download Fanart in TVShow folder**: Here you can switch on whether fanart should also be saved locally in the series folder. (At this time, only 1 fanart from max.5 possible - Update..)
 
-  - Fanart filname for TVShow: You can control the file naming here. In the series folder as `fanart.jpg` or as `seriesname-fanart.jpg`.
+  - **Fanart filname for TVShow**: You can control the file naming here. In the series folder as `fanart.jpg` or as `seriesname-fanart.jpg`.
 
-  - Download Banner in TVShow folder: Here you can switch on whether banner should also be saved locally in the series folder.
+  - **Download Banner in TVShow folder**: Here you can switch on whether banner should also be saved locally in the series folder.
 
-  - Banner filename TVShow: You can control the file naming here. In the series folder as `banner.jpg` or as `seriesname-banner.jpg`.
+  - **Banner filename TVShow**: You can control the file naming here. In the series folder as `banner.jpg` or as `seriesname-banner.jpg`.
 
-  - Download ClearLogo in TVShow folder: Here you can switch on whether clearlogo should also be saved locally in the series folder.
+  - **Download ClearLogo in TVShow folder**: Here you can switch on whether clearlogo should also be saved locally in the series folder.
 
-  - ClearLogo filename for TVShow: You can control the file naming here. In the series folder as `clearlogo.jpg` or as `seriesname-clearlogo`.jpg.
+  - **ClearLogo filename for TVShow**: You can control the file naming here. In the series folder as `clearlogo.jpg` or as `seriesname-clearlogo`.jpg.
 
   - <b>Feature DL Season Posters - open</b>
 
 
 - Seasons
 
-  - Use League Poster for all Seasons: There are currently not yet separate posters available for all seasons in the TSDB. If you activate the function, the addon will automatically take the league poster for all series.
+  - **Use League Poster for all Seasons**: There are currently not yet separate posters available for all seasons in the TSDB. If you activate the function, the addon will automatically take the league poster for all series.
 
 > [!TIP] 
 > If you deactivate the function, all available season posters will be used/downloaded. If none is available for a season, the TVShow/League poster will be used
 
 - Character Art (Player)
 
-  - User Character ARt
+  - **User Character ARt**:
 
-  - Character Art Version: 
+  - **Character Art Version**: 
 
-  - Download Character Art
+  - **Download Character Art**:
 
-  - Character Art filename
+  - **Character Art filename**:
 
-  - Save in the respective TVShow folder
+  - **Save in the respective TVShow folder**:
 
-  - Choose your own path:
+  - **Choose your own path**:
 
 
 <img height="600" src="_images/addon06.jpg" alt="Addon Settings">
@@ -185,19 +185,19 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Logging
 
-  - Verbose debug logging
+  - **Verbose debug logging**
 
-  - Verbose debug logging extreme
+  - **Verbose debug logging extreme**
 
 - Premium 
 
-  - API Key TheSportsDB
+  - **API Key TheSportsDB**
 
 - Support
 
-  - Visit us @ Github:
+  - **Visit us @ Github**:
 
-  - Visit TheSportsDB Discord - Support:
+  - **Visit TheSportsDB Discord - Support**:
 
 <img height="600" src="_images/addon08.jpg" alt="Addon Settings">
 
