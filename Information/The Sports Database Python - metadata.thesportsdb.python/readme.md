@@ -303,9 +303,9 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 <img height="600" src="_images/addon_view_actor03.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
-- Clearcharacters: Example cooming sone
+- Clearcharacters: Example soon..
 
-- Clearlogo: Example cooming sone
+- Clearlogo: Example soon..
 
 
 > [!IMPORTANT]
