@@ -55,7 +55,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 	</ul>
 </p>
 
-<img height="400" src="_images/addon01.jpg" alt="Addon Settings">
+<img height="600" src="_images/addon01.jpg" alt="Addon Settings">
 
 ## Addon Settings
 
@@ -69,32 +69,38 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
   - Enable Trailer: Is for episodes only, information is already stored in Kodi, but trailers are not yet supported for episodes.
 
-  - Addon Player: 
+  - Addon Player: Used for playing the trailer (not used at this time)
 
 - API:
 
-  - TSDB - API Version:
+  - TSDB - API Version: Here you can switch between the API versions. You only get the latest features with version 2.
 
-  - Sleep in seconds each API call: 
+  - Sleep in seconds each API call: Since only 100 requests are allowed per minute, you need at least 0.1 seconds delay. (Fast server/workstations)
 
-<img height="400" src="_images/addon02.jpg" alt="Addon Settings">
+<img height="600" src="_images/addon02.jpg" alt="Addon Settings">
 
 ### Addon Settings - NFO
 
 - Scraper
 
+  - Ignore local NFO file: With Kodi you can't turn off the search for NFO files, but you can bypass it. The NFO file must contain at least one of the following tags with data. Example <tsdb>4234</tsdb> or <episodeguide>{tsdb:4234}</episodeguide>. Tags: <title>, <showtitle>, <originaltitle>, <strLeague>, <tsdb>, <episodeguide> and <tvshowsource>.
+
+  > [!TIP]
+> Before scraping the first time, you should remove any existing NFO files in your Sports Series folder.
+> Kodi then always fetches the most current data from the Internet, even if an NFO file has been saved.
+
 - NFO
 
-<img height="400" src="_images/addon03.jpg" alt="Addon Settings">
+<img height="600" src="_images/addon03.jpg" alt="Addon Settings">
 
-<img height="400" src="_images/addon04.jpg" alt="Addon Settings">
+<img height="600" src="_images/addon04.jpg" alt="Addon Settings">
 
 
 ### Addon Settings - Modifications 
 
 - Title
 
-<img height="400" src="_images/addon05.jpg" alt="Addon Settings">
+<img height="600" src="_images/addon05.jpg" alt="Addon Settings">
 
 
 
@@ -108,10 +114,10 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 - Character Art (Player)
 
 
-<img height="400" src="_images/addon06.jpg" alt="Addon Settings">
+<img height="600" src="_images/addon06.jpg" alt="Addon Settings">
 
 
-<img height="400" src="_images/addon07.jpg" alt="Addon Settings">
+<img height="600" src="_images/addon07.jpg" alt="Addon Settings">
 
 
 ### Addon Settings - Logging & Other
@@ -122,7 +128,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Support
 
-<img height="400" src="_images/addon08.jpg" alt="Addon Settings">
+<img height="600" src="_images/addon08.jpg" alt="Addon Settings">
 
 
 
