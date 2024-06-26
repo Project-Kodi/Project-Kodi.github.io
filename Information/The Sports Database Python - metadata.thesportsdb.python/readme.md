@@ -83,7 +83,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Scraper
 
-  - Ignore local NFO file: With Kodi you can't turn off the search for NFO files, but you can bypass it. The NFO file must contain at least one of the following tags with data. Example <tsdb>4234</tsdb> or <episodeguide>{tsdb:4234}</episodeguide>. Tags: `<title>, <showtitle>, <originaltitle>, <strLeague>, <tsdb>, <episodeguide> and <tvshowsource>`.
+  - Ignore local NFO file: With Kodi you can't turn off the search for NFO files, but you can bypass it. The NFO file must contain at least one of the following tags with data. Example `<tsdb>4234</tsdb>` or `<episodeguide>{tsdb:4234}</episodeguide>`. Tags: `<title>  <showtitle> <originaltitle>  <strLeague>  <tsdb>  <episodeguide> <tvshowsource>`.
 
 > [!TIP]
 > Before scraping the first time, you should remove any existing NFO files without TSDB Data in your Sports Series folder.
