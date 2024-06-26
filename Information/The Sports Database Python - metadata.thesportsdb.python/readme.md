@@ -216,7 +216,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Leage Wall:
 
-<img height="600" src="_images/addon_view_league_wall" alt="Addon Settings">
+<img height="600" src="_images/addon_view_league_wall.jpg" alt="Addon Settings">
 
 - League Shift:
 
@@ -286,6 +286,9 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 - Episode Infowall:
 
 <img height="600" src="_images/addon_view_episode_infowall.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
+
+### Addong Using - Kodi Default Ski - Actor View 
+
 
 
 
