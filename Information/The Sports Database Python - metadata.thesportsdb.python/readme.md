@@ -289,8 +289,17 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 ### Addong Using - Kodi Default Ski - Actor View 
 
+- Actor X:
 
+<img height="600" src="_images/addon_view_actor01.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
+- Actor X:
+
+<img height="600" src="_images/addon_view_actor02.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
+
+- Actor X:
+
+<img height="600" src="_images/addon_view_actor03.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
 :+1: Thank you for reading! :shipit: you can find me on discord!
 
