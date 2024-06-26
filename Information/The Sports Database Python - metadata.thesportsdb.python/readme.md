@@ -24,7 +24,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 ## Addon Download and Installation
 
 
-### Addon Download - Project-Kodi Repository
+### Install- Project-Kodi Repository
 
 
 <p align="left">
@@ -39,13 +39,14 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 	</ul>
 </p>
 
+### Install- The Sports Database Addon
 
 <b>=> Instructions for installing addons from Project Kodi Repository:</b>
 <p align="left">
 	<ul>
 		<li>Go to "Addons", select "Install from repository".</li>
 		<li>Select the "Project Kodi Repository".</li>
-		<li>Go into the accordingly section in the repository (video-plugin, scraper,..), and you'll find the apps</li>
+		<li>Go to Information provider, tv information and choose The Sports Database Python</li>
 	</ul>
 </p>
 
