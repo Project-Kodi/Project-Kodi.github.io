@@ -63,9 +63,19 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Language
 
+  Preferred language (Fallback EN): Title/description and other texts are retrieved in this selected language.
+
 - Trailer
 
-- API
+  Enable Trailer: Is for episodes only, information is already stored in Kodi, but trailers are not yet supported for episodes.
+
+  Addon Player: 
+
+- API:
+
+  TSDB - API Version:
+
+  Sleep in seconds each API call: 
 
 <img height="400" src="_images/addon02.jpg" alt="Addon Settings">
 
