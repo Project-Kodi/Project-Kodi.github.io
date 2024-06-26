@@ -304,7 +304,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 <img height="600" src="_images/addon_view_actor03.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
 > [!IMPORTANT]
-> Preview images of the players are missing here and when you select a player, the detailed information is also missing! another plugin needs to be written.
+> Preview images of the players are missing here and when you select a player, the detailed information is also missing! another plugin needs to be written. Coming soon..
 
 ## Examples after scraping
 
