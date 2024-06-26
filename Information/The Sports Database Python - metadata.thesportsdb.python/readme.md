@@ -310,7 +310,11 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - English Premier League:
 
-<img height="600" src="_images/addon_season_folder.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
+<img height="600" src="_images/addon_season_folder01.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
+
+- Formula 1 League:
+
+<img height="600" src="_images/addon_season_folder02.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
 
 :+1: Thank you for reading! :shipit: you can find me on discord!
