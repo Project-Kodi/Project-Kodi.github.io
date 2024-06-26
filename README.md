@@ -33,6 +33,9 @@
 
 ## Kodi Addons:
 
+> [!TIP]
+> Are you a sports series collector? Then try The Sports Database Python: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python">metadata.thesportsdb.python</a>!
+
 <b>=> Project Kodi - NFO Exporter - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/NFO%20Exporter%20-%20plugin.context.nfoexporter">plugin.context.nfoexporter</a></b>
 
 <b>=> Project Kodi - Project Kodi Repository  - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Project%20Kodi%20Repository%20%20-%20repository.project.kodi">repository.project.kodi</a></b>
@@ -44,6 +47,8 @@
 - Web: <code>https://Project-Kodi.github.io/texturecache.py/</code>
 
 <b>=> Project Kodi - The Sports Database Python - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python">metadata.thesportsdb.python</a> | <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python/File%20Naming%20%26%20Tools/Example%20files%20for%20naming">Examples for Naming.zip</a></b>
+
+- Web: <code>https://project-kodi.github.io/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python/</code>
 
 <b>=> Project Kodi - The Sports Database</b> (use it only, if python version not work, old version!) <b>- <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com">metadata.thesportsdb.com</a> | <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com/File%20Naming%20%26%20Tools/Example%20files%20for%20naming">Examples for Naming.zip</a></b>
 
@@ -83,7 +88,7 @@
 ## Kodi Addons:
 
 > [!TIP]
-> Are you a sports series collector? Then try The Sports Database Python: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python">metadata.thesportsdb.python</a>!
+> Sind Sie ein Sammler von Sportserien? Dann probieren Sie The Sports Database Python aus: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python">metadata.thesportsdb.python</a>!
 
 <b>=> Project Kodi - NFO Exporter - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/NFO%20Exporter%20-%20plugin.context.nfoexporter">plugin.context.nfoexporter</a></b>
 
