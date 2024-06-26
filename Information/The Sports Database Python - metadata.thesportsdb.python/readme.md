@@ -191,16 +191,16 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Premium 
 
-  - **API Key TheSportsDB**: If you are a supporter of TheSportsdb.com, you can enter your own API key. But this is not necessary as we have already integrated a key.
+  - **API Key TheSportsDB**: If you are a supporter of TheSportsdb.com, you can enter your own API key. But this is not necessary as we have already integrated a key. In the later future, there could be features that only Patreon supporters can activate.
 
 > [!IMPORTANT]
 > **Support us on Patreon:** <a href="https://www.patreon.com/ProjectKodi">patreon.com/ProjectKodi</a>
 
 - Support
 
-  - **Visit us @ Github**:
+  - **Visit us @ Github**: This is our Github Website: <a href="https://project-kodi.github.io/">Project-Kodi.github.io</a> | Our Kodi Repository and documentation: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main">github.com/Project-Kodi/Project-Kodi.github.io/</a> 
 
-  - **Visit TheSportsDB Discord - Support**:
+  - **Visit TheSportsDB Discord - Support**: You get support for the addon via Discord but also for the data from thesportsdb.com A large active community. <a href="discord.gg/pFvgaXV">discord.gg/pFvgaXV</a>
 
 <img height="600" src="_images/addon08.jpg" alt="Addon Settings">
 
