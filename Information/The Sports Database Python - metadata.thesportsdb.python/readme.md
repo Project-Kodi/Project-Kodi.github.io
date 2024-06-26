@@ -40,7 +40,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 
 
-![](/_images/addon01.jpg)
+![](_images/addon01.jpg)
 
 
 
