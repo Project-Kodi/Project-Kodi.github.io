@@ -86,20 +86,28 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
   - Ignore local NFO file: With Kodi you can't turn off the search for NFO files, but you can bypass it. The NFO file must contain at least one of the following tags with data. Example <tsdb>4234</tsdb> or <episodeguide>{tsdb:4234}</episodeguide>. Tags: <title>, <showtitle>, <originaltitle>, <strLeague>, <tsdb>, <episodeguide> and <tvshowsource>.
 
 > [!TIP]
-> Before scraping the first time, you should remove any existing NFO files in your Sports Series folder.
-> Kodi then always fetches the most current data from the Internet, even if an NFO file has been saved.
+> Before scraping the first time, you should remove any existing NFO files without TSDB Data in your Sports Series folder.
+> After the first run, Kodi then always fetches the most current data from the Internet, even if an NFO file with TSDB Data has been saved with the scraper.
 
 - NFO
 
-  - x
+  - Write NFO file:
 
-    - y
+  - Overwrite NFO files if exists:
 
-  - x
+  - Save in the respective TVShow/Season/Episode folder:
 
-  - x
+    - Choose own path - TVShow:
 
-  - x
+    - Choose own path - Season:
+    
+    - Choose own path - Episode:
+
+  - NFO filename TVShow: tvshow.nfo/wvshowfilename.nfo
+
+  - NFO filename Season: seasonxx in path own or serie // serie/Staffel X/season.nfo
+
+  - NFO filename Episode: episodename.nfo in serie/staffel x or own path
 
 <img height="600" src="_images/addon03.jpg" alt="Addon Settings">
 
@@ -110,6 +118,10 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Title
 
+  - Add Date to episode name
+
+  - Exclude Leagues by name:
+
 <img height="600" src="_images/addon05.jpg" alt="Addon Settings">
 
 
@@ -119,9 +131,42 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - TVShows
 
+  - Download Poster in TVShow folder:
+
+  - Poster filename for TVShow:
+
+  - Download Fanart in TVShow folder:
+
+  - Fanart filname for TVShow:
+
+  - Download Banner in TVShow folder:
+
+  - Banner filename TVShow:
+
+  - Download ClearLogo in TVShow folder:
+
+  - ClearLogo filename for TVShow:
+
+  - <b>Feature DL Season Posters - open</b>
+
+
 - Seasons
 
+  - Use League Poster for all Seasons
+
 - Character Art (Player)
+
+  - User Character ARt
+
+  - Character Art Version: 
+
+  - Download Character Art
+
+  - Character Art filename
+
+  - Save in the respective TVShow folder
+
+  - Choose your own path:
 
 
 <img height="600" src="_images/addon06.jpg" alt="Addon Settings">
@@ -134,9 +179,19 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Logging
 
+  - Verbose debug logging
+
+  - Verbose debug logging extreme
+
 - Premium 
 
+  - API Key TheSportsDB
+
 - Support
+
+  - Visit us @ Github:
+
+  - Visit TheSportsDB Discord - Support:
 
 <img height="600" src="_images/addon08.jpg" alt="Addon Settings">
 
