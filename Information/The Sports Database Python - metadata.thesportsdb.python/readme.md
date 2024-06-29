@@ -21,11 +21,11 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 # Documentation
 
-- Addon Download and Installation
+- Addon download and installation
 
-- Addon Settings
+- Addon settings
 
-- Addong Using
+- Addong using
 
 - Examples after scraping
 
@@ -134,7 +134,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 ### Addon Settings - Artwork 
 
-- TVShows
+- TV shows
 
   - **Download poster in TV show folder**: Here you can switch on whether poster should also be saved locally in the series folder.
 
@@ -201,7 +201,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 - Support
 
-  - **Visit us @ Github**: This is our Github Website: <a href="https://project-kodi.github.io/">Project-Kodi.github.io</a> | Our Kodi Repository and documentation: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main">github.com/Project-Kodi/Project-Kodi.github.io/</a> 
+  - **Visit us @ Github**: This is our Github website: <a href="https://project-kodi.github.io/">Project-Kodi.github.io</a> | Our Kodi repository and documentation: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main">github.com/Project-Kodi/Project-Kodi.github.io/</a> 
 
   - **Visit TheSportsDB Discord - Support**: You get support for the addon via Discord but also for the data from TheSportsDB.com A large active community. <a href="https://discord.gg/pFvgaXV">discord.gg/pFvgaXV</a>
 
@@ -209,9 +209,9 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 
 
-## Addong Using
+## Addong using
 
-### Addong Using - Kodi Default Ski - TVShow View
+### Addong using - Kodi Default Skin - TV show view
 
 - Leage Wideist:
 
@@ -276,7 +276,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 <img height="600" src="_images/addon_view_season_fanart.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
-### Addong Using - Kodi Default Ski - Episode View 
+### Addong using - Kodi Default Skin - episode view 
 
 - Episode Widelist:
 
@@ -290,7 +290,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 <img height="600" src="_images/addon_view_episode_infowall.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
-### Addong Using - Kodi Default Ski - Actor View 
+### Addong using - Kodi Default Skin - actor view 
 
 - Actor, view from more information in league:
 
@@ -322,7 +322,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 <img height="600" src="_images/addon_season_folder02.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
-- Exampe File as ZIP after scrapping:
+- Exampe files as ZIP after scrapping:
 
 <img height="600" src="_images/addon_example_files01.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
