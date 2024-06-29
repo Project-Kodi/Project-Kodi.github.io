@@ -331,7 +331,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 <img height="600" src="_images/addon_example_files01.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
-- Exampe NFO file UFC after scrapping: (local version. is still being improved.)
+- Exampe NFO file, show `UFC` -  after scrapping: (Feature is still being improved. You see the local NFO version here.)
 
 <img height="600" src="_images/addon_example_nfo01.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
