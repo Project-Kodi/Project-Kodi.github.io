@@ -18,8 +18,9 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
   
   
 > [!TIP]
-> Supports SMB / NFS paths including SQL databases in Kodi. For large environments where 1 server provides the video database, texture database and thumbnail folder for all clients.
-> This scraper can also create NFO files and save artwork locally!
+> - Supports SMB / NFS paths including SQL databases in Kodi. For large environments where 1 server provides the video database, texture database and thumbnail folder for all clients.
+
+> - This scraper can also create NFO files and save artwork locally!
 
 # Documentation
 
