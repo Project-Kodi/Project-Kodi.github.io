@@ -163,7 +163,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
   - **Use league poster for all seasons, requires API V2**: There are currently not yet separate posters available for all seasons in the TSDB. If you activate the function, the addon will automatically take the league poster for all series.
 
 > [!TIP] 
-> If you deactivate the function, all available season posters will be used/downloaded. If none is available for a season, the TVShow/League poster will be used
+> If you deactivate the function, all available season posters will be used/downloaded. If none is available for a season, none will be displayed! Please upload season poster to thesportsdb.com first.
 
 - Player art
 
