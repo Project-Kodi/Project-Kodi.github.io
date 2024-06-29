@@ -150,10 +150,11 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
   - **Download ClearLogo in TVShow folder**: Here you can switch on whether clearlogo should also be saved locally in the series folder.
 
-  - **ClearLogo filename for TVShow**: You can control the file naming here. In the series folder as `clearlogo.jpg` or as `seriesname-clearlogo`.jpg.
+  - **ClearLogo filename for TVShow**: You can control the file naming here. In the series folder as `clearlogo.jpg` or as `seriesname-clearlogo.jpg`.
 
-  - <b>Feature DL Season Posters - open</b>
+  - **Download Season poster in TVShow folder**: Here you can switch on whether season poster should also be saved locally in the series folder.
 
+  - **Season poster filename for TVShow**: You can control the file naming here. In the series folder as `Season XX/season.jpg` or as `seasonXX.jpg`.
 
 - Seasons
 
