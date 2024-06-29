@@ -18,7 +18,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
   
   
 > [!TIP]
-> - Supports SMB / NFS paths including SQL databases in Kodi. For large environments where 1 server provides the video database, texture database and thumbnail folder for all clients.
+> - Supports SMB / NFS paths including SQL databases in Kodi. For large environments where 1 server provides the video database, texture database and thumbnail folder for all clients. Use the texturecache utility in exe/python/kodi/exe-gui version to cache the series and actors immediately on server [tvshow and artists]: https://github.com/Project-Kodi/texturecache.py
 > - This scraper can also create NFO files and save artwork locally!
 
 # Documentation
