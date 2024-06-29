@@ -17,7 +17,8 @@
 Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python">https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python</a>
   
   
-
+> [!TIP]
+> Supports SMB / NFS paths including SQL databases in Kodi. For large environments where 1 server provides the video database, texture database and thumbnail folder for all clients.
 
 # Documentation
 
