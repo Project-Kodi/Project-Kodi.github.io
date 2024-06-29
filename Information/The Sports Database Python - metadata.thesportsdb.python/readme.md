@@ -314,11 +314,11 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 ## Examples after scraping
 
-- English Premier League:
+- English Premier League: (season poster in root)
 
 <img height="600" src="_images/addon_season_folder01.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
-- Formula 1 League:
+- NFL: (season poster in season folder)
 
 <img height="600" src="_images/addon_season_folder02.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
