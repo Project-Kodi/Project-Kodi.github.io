@@ -163,17 +163,17 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 > [!TIP] 
 > If you deactivate the function, all available season posters will be used/downloaded. If none is available for a season, the TVShow/League poster will be used
 
-- Character Art (Player)
+- Player art
 
-  - **User Character Art**: If you activate this function, the desired character arts will be added to the Kodi database.
+  - **User player art**: If you activate this function, the desired character arts will be added to the Kodi database.
 
-  - **Character Art Version**: There are 2 different representations of players/participants. From the front as `Player Cutout` and as a picture where the player/participant is in motion `Player Action Render`. 
+  - **Player art version**: There are 2 different representations of players/participants. From the front as `Player Cutout` and as a picture where the player/participant is in motion `Player Action Render`. 
 
-  - **Download Character Art**: The character art is not only loaded into the Kodi database, it is also downloaded but a maximum of 10 images are saved in the desired folder.
+  - **Download Player art**: The character art is not only loaded into the Kodi database, it is also downloaded but a maximum of 10 images are saved in the desired folder.
 
-  - **Character Art filename**: There are 2 options: 1. `characterart.png - characterart9.png` or 2. `tvshowfoldername-characterart.png - tvshowfoldername-characterart9.png`.
+  - **Player art filename**: There are 2 options: 1. `characterart.png - characterart9.png` or 2. `tvshowfoldername-characterart.png - tvshowfoldername-characterart9.png`.
 
-  - **Save in the respective TVShow folder**: If activated, the images will be stored in the series folder.
+  - **Save in the respective TV show folder**: If activated, the images will be stored in the series folder.
 
   - **Choose your own path**: You can also enter your own path for saving the images.
 
