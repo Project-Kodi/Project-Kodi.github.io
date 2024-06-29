@@ -184,7 +184,7 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 <img height="600" src="_images/addon07.jpg" alt="Addon Settings">
 
 > [!NOTE]
-> Use the texturecache utility in exe/python/kodi/exe-gui version to cache the series and actors immediately [tvhsow and artists]: <a href="https://github.com/Project-Kodi/texturecache.py">https://github.com/Project-Kodi/texturecache.py</a>
+> Use the texturecache utility in exe/python/kodi/exe-gui version to cache the series and actors immediately [tvshow and artists]: <a href="https://github.com/Project-Kodi/texturecache.py">https://github.com/Project-Kodi/texturecache.py</a>
 
 
 ### Addon Settings - Logging & Other
@@ -338,4 +338,4 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 > Support us on Patreon: patreon.com/ProjectKodi
 
 > [!NOTE]
-> Use the texturecache utility in exe/python/kodi/exe-gui version to cache the series and actors immediately [tvhsow and artists]: <a href="https://github.com/Project-Kodi/texturecache.py">https://github.com/Project-Kodi/texturecache.py</a>
+> Use the texturecache utility in exe/python/kodi/exe-gui version to cache the series and actors immediately [tvshow and artists]: <a href="https://github.com/Project-Kodi/texturecache.py">https://github.com/Project-Kodi/texturecache.py</a>
