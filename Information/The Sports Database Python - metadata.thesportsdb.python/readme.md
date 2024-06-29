@@ -331,6 +331,10 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
 <img height="600" src="_images/addon_example_files01.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
 
+- Exampe NFO file UFC after scrapping: (local version. is still being improved.)
+
+<img height="600" src="_images/addon_example_nfo01.jpg" alt="Kodi Adoon: The Sports Database Python - Leage Wideist">
+
 :+1: Thank you for reading! :shipit: you can find me on discord!
 
 :+1: Thanks also to ZAG, the operator of <a href="https://www.thesportsdb.com/">thesportsdb.com</a> which supports all Kodi and Plex users with its data. Helping hands are always needed for content creation, visit the Discord Channel: <a href="https://discord.gg/pFvgaXV">discord.gg/pFvgaXV</a>
