@@ -2,8 +2,11 @@
 > [!NOTE]
 > Support us on Patreon: <a href="https://patreon.com/ProjectKodi">patreon.com/ProjectKodi</a>
 
-# Project Kodi - Addons
-## Directory
+# Project Kodi - Kodi Addons
+## Directory - Direct Downloads
+
+
+### The repository auto update does not work correctly in Kodi, that's why you can download the individual versions here
 
 <p align="left">
 <ul>
@@ -12,4 +15,4 @@
   </ul>
 </p>
 
-Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information">https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information</a>
+Please use the repository installation normally: <a href="https://project-kodi.github.io/">https://project-kodi.github.io/</a>
