@@ -1,5 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
+	<addon id="metadata.thesportsdb.python" name="The Sports Database Python" version="1.1.6" provider-name="Project Kodi">
+		<requires>
+			<import addon="xbmc.python" version="3.0.0"/>
+			<import addon="xbmc.metadata" version="2.1.0"/>
+			<import addon="script.module.requests" version="2.31.0"/>
+		</requires>
+		<extension point="xbmc.metadata.scraper.tvshows" library="main.py" cachepersistence="03:00"/>
+		<extension point="xbmc.addon.metadata">
+			<reuselanguageinvoker>true</reuselanguageinvoker>
+			<news>Artwork download and NFO export improvements, preparations for plex plugin: TheSportsDB-NFO</news>
+			<summary lang="en_US">TSDB Sport Scraper</summary>
+			<summary lang="en_GB">TSDB Sport Scraper</summary>
+			<summary lang="de_DE">TSDB Sport Scraper</summary>
+			<summary lang="fi_FI">Projekti Kodi -arkisto</summary>
+			<summary lang="fr_FR">TSDB urheilukaavin</summary>
+			<summary lang="pt_PT">Raspador esportivo TSDB</summary>
+			<summary lang="sv_SE">TSDB sportskrapa</summary>
+			<summary lang="es_ES">Raspador deportivo TSDB</summary>
+			<description lang="en_US">TheSportsDB is an online source of sports metadata that is maintained by its users.</description>
+			<description lang="en_GB">TheSportsDB is an online source of sports metadata that is maintained by its users.</description>
+			<description lang="de_DE">TheSportsDB ist eine Online-Quelle für Sportmetadaten, die von ihren Benutzern gepflegt wird.</description>
+			<description lang="fi_FI">TheSportsDB on urheilun metatietojen online-lähde, jota sen käyttäjät ylläpitävät.</description>
+			<description lang="fr_FR">TheSportsDB est une source en ligne de métadonnées sportives gérée par ses utilisateurs.</description>
+			<description lang="pt_PT">TheSportsDB é uma fonte online de metadados esportivos mantida por seus usuários.</description>
+			<description lang="sv_SE">TheSportsDB är en onlinekälla för sportmetadata som underhålls av dess användare.</description>
+			<description lang="es_ES">TheSportsDB es una fuente en línea de metadatos deportivos mantenida por sus usuarios.</description>
+			<disclaimer lang="de_DE">Die dargestellten Inhalte des in diesem Verzeichnis enthaltenen Addons, werden von den Entwicklern des Addons nicht gehostet oder verbreitet, noch stehen Sie in irgendeiner Verbdindung zu den Content-Anbieter.</disclaimer>
+			<disclaimer lang="en_GB">The content presented in the add-on contained in this directory is not hosted or distributed by the developers of the add-on, nor do they have any connection to the content providers.</disclaimer>
+			<disclaimer lang="en_US">The content presented in the add-on contained in this directory is not hosted or distributed by the developers of the add-on, nor do they have any connection to the content providers.</disclaimer>
+			<disclaimer lang="fi_FI">Lisäosan kehittäjät eivät isännöi tai jaa tämän hakemiston lisäosan sisältämää sisältöä, eikä heillä ole mitään yhteyttä sisällöntuottajiin.</disclaimer>
+			<disclaimer lang="fr_FR">Le contenu présenté dans le module complémentaire contenu dans ce répertoire n'est ni hébergé ni distribué par les développeurs du module complémentaire, et ils n'ont aucun lien avec les fournisseurs de contenu.</disclaimer>
+			<disclaimer lang="pt_PT">O conteúdo apresentado no complemento contido neste diretório não é hospedado ou distribuído pelos desenvolvedores do complemento, nem possui qualquer conexão com os provedores de conteúdo.</disclaimer>
+			<disclaimer lang="sv_SE">Innehållet som presenteras i tillägget som finns i den här katalogen är inte värd för eller distribueras av utvecklarna av tillägget, och de har inte heller någon koppling till innehållsleverantörerna.</disclaimer>
+			<disclaimer lang="es_ES">El contenido presentado en el complemento contenido en este directorio no está alojado ni distribuido por los desarrolladores del complemento, ni tienen ninguna conexión con los proveedores de contenido.</disclaimer>
+			<platform>all</platform>
+			<license>GPL-3.0-or-later</license>
+			<assets>
+				<icon>resources/icon.png</icon>
+				<screenshot>resources/screenshot-01.jpg</screenshot>
+				<screenshot>resources/screenshot-02.jpg</screenshot>
+				<screenshot>resources/screenshot-03.jpg</screenshot>
+				<screenshot>resources/screenshot-04.jpg</screenshot>
+				<screenshot>resources/screenshot-05.jpg</screenshot>
+				<screenshot>resources/screenshot-06.jpg</screenshot>
+				<screenshot>resources/screenshot-07.jpg</screenshot>
+				<screenshot>resources/screenshot-08.jpg</screenshot>
+				<screenshot>resources/screenshot-09.jpg</screenshot>
+				<screenshot>resources/screenshot-10.jpg</screenshot>
+			</assets>
+			<forum>https://forum.kodi.tv/showthread.php?tid=368208</forum>
+			<email>kodi-support@streimelweger.eu</email>
+			<website>https://www.thesportsdb.com</website>
+			<source>https://github.com/Project-Kodi/Project-Kodi.github.io</source>
+		</extension>
+	</addon>
 	<addon id="metadata.thesportsdb.python" name="The Sports Database Python" version="1.1.5" provider-name="Project Kodi">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
