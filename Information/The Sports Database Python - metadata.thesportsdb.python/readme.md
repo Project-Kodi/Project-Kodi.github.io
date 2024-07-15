@@ -159,6 +159,10 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
   - **Badge filename for TV show**: You can control the file naming here. In the series folder as `badge.jpg` or as `seriesname-badge.jpg`.
 
+
+<img height="600" src="_images/addon06.jpg" alt="Addon Settings">
+
+
   - **Download trophy in TV show folder**: Here you can switch on whether trophy should also be saved locally in the series folder.
 
   - **Trophy filename for TV show**: You can control the file naming here. In the series folder as `trophy.jpg` or as `seriesname-tropy.jpg`.
@@ -189,6 +193,10 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
   - **Square poster filename for episode**: You can control the file naming here. In the season folder as `episodefilename-squareposter.jpg`.
 
+
+<img height="600" src="_images/addon07.jpg" alt="Addon Settings">
+
+
   - **Download banner in episode folder**: 
 
   - **Banner filename for episode**: You can control the file naming here. In the season folder as `episodefilename-banner.jpg`.
@@ -214,12 +222,6 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
   - **Save in the respective TV show folder**: If activated, the images will be stored in the series folder.
 
   - **Choose your own path**: You can also enter your own path for saving the images.
-
-
-<img height="600" src="_images/addon06.jpg" alt="Addon Settings">
-
-
-<img height="600" src="_images/addon07.jpg" alt="Addon Settings">
 
 
 <img height="600" src="_images/addon07-1.jpg" alt="Addon Settings">
