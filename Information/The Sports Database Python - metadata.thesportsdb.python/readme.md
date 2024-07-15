@@ -155,13 +155,48 @@ Github Source: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/t
 
   - **ClearLogo filename for TV show**: You can control the file naming here. In the series folder as `clearlogo.jpg` or as `seriesname-clearlogo.jpg`.
 
+  - **Download badge in TV show folder**: Here you can switch on whether badge should also be saved locally in the series folder.
+
+  - **Badge filename for TV show**: You can control the file naming here. In the series folder as `badge.jpg` or as `seriesname-badge.jpg`.
+
+  - **Download trophy in TV show folder**: Here you can switch on whether trophy should also be saved locally in the series folder.
+
+  - **Trophy filename for TV show**: You can control the file naming here. In the series folder as `trophy.jpg` or as `seriesname-tropy.jpg`.
+
+- Seasons
+
   - **Download season poster in TV show folder**: Here you can switch on whether season poster should also be saved locally in the series folder.
 
   - **Season poster filename for TV show**: You can control the file naming here. In the series folder as `Season XX/season.jpg` or as `seasonXX.jpg`.
 
-- Seasons
-
   - **Use league poster for all seasons, requires API V2**: There are currently not yet separate posters available for all seasons in the TSDB. If you activate the function, the addon will automatically take the league poster for all series.
+  
+- Episodes
+
+  - **Download poster in episode folder**: 
+
+  - **Poster filename for episode**: You can control the file naming here. In the season folder as `episodefilename-poster.jpg`.
+
+  - **Download thumb in episode folder**: 
+
+  - **Thumb filename for episode**: You can control the file naming here. In the season folder as `episodefilename-thumb.jpg`.
+
+  - **Download fanart in episode folder**: 
+
+  - **Fanart filename for episode**: You can control the file naming here. In the season folder as `episodefilename-fanart.jpg`.
+
+  - **Download square poster in episode folder**: 
+
+  - **Square poster filename for episode**: You can control the file naming here. In the season folder as `episodefilename-squareposter.jpg`.
+
+  - **Download banner in episode folder**: 
+
+  - **Banner filename for episode**: You can control the file naming here. In the season folder as `episodefilename-banner.jpg`.
+
+  - **Download map in episode folder**:     
+
+  - **Map filename for episode**: You can control the file naming here. In the season folder as `episodefilename-map.jpg`.
+
 
 > [!TIP] 
 > If you deactivate the function, all available season posters will be used/downloaded. If none is available for a season, none will be displayed! Please upload season poster to thesportsdb.com first.
