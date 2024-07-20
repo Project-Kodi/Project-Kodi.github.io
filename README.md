@@ -54,7 +54,8 @@
 
 <b>=> Project Kodi - Unlock Kodi Advanced Settings - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Unlock%20Kodi%20Advanced%20Settings%20-%20script.unlock.advancedsettings">script.unlock.advancedsettings</a></b> 
 
-
+> [!TIP]
+> Do you already know the NFO export tool for thesportsdb.com? Folder structure for sports series including NFO files in a zip package.: <a href="https://tsdb.sem-one.de/">[metadata.thesportsdb.python](https://tsdb.sem-one.de/)</a>!
 
 
 
@@ -107,6 +108,9 @@
 <b>=> Project Kodi - The Sports Database</b> (Nur verwenden, wenn die Python Version nicht funktioniert - älter!)<b> - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com">metadata.thesportsdb.com</a> | <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20-%20metadata.thesportsdb.com/File%20Naming%20%26%20Tools/Example%20files%20for%20naming">Examples for Naming.zip</a></b>
 
 <b>=> Project Kodi - Unlock Kodi Advanced Settings - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Unlock%20Kodi%20Advanced%20Settings%20-%20script.unlock.advancedsettings">script.unlock.advancedsettings</a></b> 
+
+> [!TIP]
+> Kennst du schon das NFO Export Tool für TheSportsDB.com? Ordnerstruktur für Sport Serien inklusive NFO Dateien in einem Zip Paket: <a href="https://tsdb.sem-one.de/">[metadata.thesportsdb.python](https://tsdb.sem-one.de/)</a>!
 
 
 ## Sitemap of Project Kodi & Project Plex
