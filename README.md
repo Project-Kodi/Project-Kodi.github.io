@@ -2,6 +2,10 @@
 > [!NOTE]
 > Support us on Patreon: <a href="https://patreon.com/ProjectKodi">patreon.com/ProjectKodi</a>
 
+> [!WARNING]
+> Please use our new community for documentation, support and downloads:: <a href="https://tsdb.club/">[patreon.com/ProjectKodi](https://tsdb.club/)</a>
+> This is just the Kodi repository to get automatic updates!
+
 # Project Kodi - Repository Addon - English:
 ## Current Version: 1.0.1
 
@@ -55,7 +59,7 @@
 <b>=> Project Kodi - Unlock Kodi Advanced Settings - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Unlock%20Kodi%20Advanced%20Settings%20-%20script.unlock.advancedsettings">script.unlock.advancedsettings</a></b> 
 
 > [!TIP]
-> Do you already know the NFO export tool for thesportsdb.com? Folder structure for sports series including NFO files in a zip package.: <a href="https://tsdb.sem-one.de/">https://tsdb.sem-one.de/</a>!
+> Do you already know the NFO export tool for thesportsdb.com? Folder structure for sports series including NFO files in a zip package.: <a href="https://tsdb.club/nfogenerator.php">https://tsdb.club/nfogenerator.php</a>!
 
 
 
@@ -110,7 +114,7 @@
 <b>=> Project Kodi - Unlock Kodi Advanced Settings - <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/Unlock%20Kodi%20Advanced%20Settings%20-%20script.unlock.advancedsettings">script.unlock.advancedsettings</a></b> 
 
 > [!TIP]
-> Kennst du schon das NFO Export Tool für TheSportsDB.com? Ordnerstruktur für Sport Serien inklusive NFO Dateien in einem Zip Paket: <a href="https://tsdb.sem-one.de/">https://tsdb.sem-one.de/</a>!
+> Kennst du schon das NFO Export Tool für TheSportsDB.com? Ordnerstruktur für Sport Serien inklusive NFO Dateien in einem Zip Paket: <a href="https://tsdb.club/nfogenerator.php">https://tsdb.club/nfogenerator.php</a>!
 
 
 ## Sitemap of Project Kodi & Project Plex
