@@ -3,7 +3,7 @@
 > Support us on Patreon: <a href="https://patreon.com/ProjectKodi">patreon.com/ProjectKodi</a>
 
 > [!WARNING]
-> Please use our new community for documentation, support and downloads:: <a href="https://tsdb.club/">[patreon.com/ProjectKodi](https://tsdb.club/)</a>
+> Please use our new community for documentation, support and downloads: <a href="https://tsdb.club/">[TSDB.club](https://tsdb.club/)</a>
 > This is just the Kodi repository to get automatic updates!
 
 # Project Kodi - Repository Addon - English:
@@ -62,6 +62,9 @@
 > Do you already know the NFO export tool for thesportsdb.com? Folder structure for sports series including NFO files in a zip package.: <a href="https://tsdb.club/nfogenerator.php">https://tsdb.club/nfogenerator.php</a>!
 
 
+> [!WARNING]
+> Bitte nutzen Sie unsere neue Community für Dokumentation, Support und Downloads: <a href="https://tsdb.club/">[TSDB.club](https://tsdb.club/)</a>
+> Dies ist nur das Kodi-Repository, um automatische Updates zu erhalten!
 
 
 # Project Kodi - Repository Addon - German:
